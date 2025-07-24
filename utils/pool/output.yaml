@@ -1,0 +1,1984 @@
+proxies:
+- name: "\U0001F1F9\U0001F1FC TW 1 TJN"
+  server: 211.72.35.155
+  port: 3389
+  type: trojan
+  password: 0cc6b4268dea0ba8
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 2 TJN"
+  server: 211.72.35.152
+  port: 3389
+  type: trojan
+  password: 26a663656e575c0b
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 3 TJN"
+  server: 211.72.35.155
+  port: 3389
+  type: trojan
+  password: 26a663656e575c0b
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 4 TJN"
+  server: 211.72.35.157
+  port: 3389
+  type: trojan
+  password: 26a663656e575c0b
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 5 TJN"
+  server: 211.72.35.155
+  port: 3389
+  type: trojan
+  password: 3febb05ea76a940f
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 6 TJN"
+  server: 211.72.35.152
+  port: 3389
+  type: trojan
+  password: 4bacb8f1a089763b
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 7 TJN"
+  server: 211.72.35.155
+  port: 3389
+  type: trojan
+  password: 7b06d22a8a7c764f
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 8 TJN"
+  server: 211.72.35.157
+  port: 3389
+  type: trojan
+  password: 8b475d9e868e43e0
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F3 UN 9 TJN"
+  server: tj2.dalazhi.cyou
+  port: 443
+  type: trojan
+  password: 8f70fde3-a04c-4f6a-b705-aef7406f6ac1
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F2\U0001F1F4 MO 10 TJN"
+  server: 45.64.22.55
+  port: 443
+  type: trojan
+  password: KLF0qOU0ZZGw5Tnu
+  sni: swift.protocolbuffer.com
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F2\U0001F1F4 MO 11 TJN"
+  server: 45.64.22.55
+  port: 443
+  type: trojan
+  password: Ty33ylFA4u6A5e0NE3wRFp3DIa8lZOzC87CeKnxYgpSOSa2ZaXBjDDSY9qCcxR
+  sni: flowery.meijireform.com
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F2\U0001F1F4 MO 12 TJN"
+  server: 45.64.22.55
+  port: 443
+  type: trojan
+  password: ZDAAFTxBNu5j9pl3Re834a3xSXwOZYeIlE30Dp86qc7yYgKaDCaROCSSnz2FCy
+  sni: csharp.protocolbuffer.com
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 13 TJN"
+  server: 211.72.35.157
+  port: 3389
+  type: trojan
+  password: b09d2aaa443af97a
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 14 TJN"
+  server: 211.72.35.155
+  port: 3389
+  type: trojan
+  password: b84d16a244460e09
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 15 SSS"
+  server: gyjd.yy9866.com
+  port: 8965
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 16 SSS"
+  server: gyjd.yy9866.com
+  port: 34502
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 17 SSS"
+  server: abc.xunyunnode.sbs
+  port: 55587
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 18 SSS"
+  server: bgc.xunyunnode.sbs
+  port: 35301
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 19 SSS"
+  server: node1.cenidcbf.ink
+  port: 14195
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 20 SSS"
+  server: node2.cenidcbf.ink
+  port: 43105
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 21 SSS"
+  server: abc.xunyunnode.sbs
+  port: 19673
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 22 SSS"
+  server: bgc.xunyunnode.sbs
+  port: 50764
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 23 SSS"
+  server: node1.cenidcbf.ink
+  port: 16755
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 24 SSS"
+  server: node2.cenidcbf.ink
+  port: 32007
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 25 SSS"
+  server: abc.xunyunnode.sbs
+  port: 62903
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 26 SSS"
+  server: bgc.xunyunnode.sbs
+  port: 12009
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 27 SSS"
+  server: gyjd.yy9866.com
+  port: 39062
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 28 SSS"
+  server: node1.cenidcbf.ink
+  port: 17587
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 29 SSS"
+  server: node2.cenidcbf.ink
+  port: 22194
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 30 SSS"
+  server: abc.xunyunnode.sbs
+  port: 63862
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 31 SSS"
+  server: bgc.xunyunnode.sbs
+  port: 25174
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 32 SSS"
+  server: node1.cenidcbf.ink
+  port: 45823
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 33 SSS"
+  server: node2.cenidcbf.ink
+  port: 15628
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 34 SSS"
+  server: abc.xunyunnode.sbs
+  port: 59079
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 35 SSS"
+  server: bgc.xunyunnode.sbs
+  port: 36079
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 36 SSS"
+  server: node1.cenidcbf.ink
+  port: 44306
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 37 SSS"
+  server: node2.cenidcbf.ink
+  port: 34927
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 38 SSS"
+  server: gyjd.yy9866.com
+  port: 23896
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 39 SSS"
+  server: abc.xunyunnode.sbs
+  port: 64182
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 40 SSS"
+  server: bgc.xunyunnode.sbs
+  port: 50737
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 41 SSS"
+  server: node1.cenidcbf.ink
+  port: 56515
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 42 SSS"
+  server: node2.cenidcbf.ink
+  port: 10326
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 43 SSS"
+  server: abc.xunyunnode.sbs
+  port: 37837
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 44 SSS"
+  server: bgc.xunyunnode.sbs
+  port: 43680
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 45 SSS"
+  server: gyjd.yy9866.com
+  port: 8965
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 46 SSS"
+  server: gyjd.yy9866.com
+  port: 21000
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 47 SSS"
+  server: gyjd.yy9866.com
+  port: 48917
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 48 SSS"
+  server: gyjd.yy9866.com
+  port: 21525
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 49 SSS"
+  server: gyjd.yy9866.com
+  port: 22425
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 50 SSS"
+  server: gyjd.yy9866.com
+  port: 16947
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 51 SSS"
+  server: gyjd.yy9866.com
+  port: 39263
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 52 SSS"
+  server: gyjd.yy9866.com
+  port: 23262
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 53 SSS"
+  server: gyjd.yy9866.com
+  port: 28322
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 54 SSS"
+  server: gyjd.yy9866.com
+  port: 45092
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 55 SSS"
+  server: gyjd.yy9866.com
+  port: 34502
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 56 SSS"
+  server: gyjd.yy9866.com
+  port: 39062
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 57 SSS"
+  server: gyjd.yy9866.com
+  port: 23896
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 58 SSS"
+  server: gyjd.yy9866.com
+  port: 22425
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 59 SSS"
+  server: gyjd.yy9866.com
+  port: 27828
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 65f4f5c6-e79a-4e87-9a85-1c53da98ce70
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 60 SSS"
+  server: gyjd.yy9866.com
+  port: 27828
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 61 SSS"
+  server: gy11.gsulink.top
+  port: 55408
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 62 SSS"
+  server: gy11.gsulink.top
+  port: 36199
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 63 SSS"
+  server: gy11.gsulink.top
+  port: 53387
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 64 SSS"
+  server: gy11.gsulink.top
+  port: 14187
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 65 SSS"
+  server: gy11.gsulink.top
+  port: 40063
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 66 SSS"
+  server: gy11.gsulink.top
+  port: 43295
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 67 SSS"
+  server: gy11.gsulink.top
+  port: 54693
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 68 SSS"
+  server: gy11.gsulink.top
+  port: 32008
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 69 SSS"
+  server: gy11.gsulink.top
+  port: 17254
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 70 SSS"
+  server: gy11.gsulink.top
+  port: 57577
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 71 SSS"
+  server: gy11.gsulink.top
+  port: 55408
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 72 SSS"
+  server: gy11.gsulink.top
+  port: 30348
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 73 SSS"
+  server: gy11.gsulink.top
+  port: 48907
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 74 SSS"
+  server: gy11.gsulink.top
+  port: 28675
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: c7d87a86-8316-423b-a200-94fd93b66d31
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 75 SSS"
+  server: gyjd.yy9866.com
+  port: 8965
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 76 SSS"
+  server: gyjd.yy9866.com
+  port: 21000
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 77 SSS"
+  server: gyjd.yy9866.com
+  port: 48917
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 78 SSS"
+  server: gyjd.yy9866.com
+  port: 21525
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 79 SSS"
+  server: gyjd.yy9866.com
+  port: 16947
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 80 SSS"
+  server: gyjd.yy9866.com
+  port: 39263
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 81 SSS"
+  server: gyjd.yy9866.com
+  port: 23262
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 82 SSS"
+  server: gy11.gsulink.top
+  port: 36199
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 83 SSS"
+  server: gyjd.yy9866.com
+  port: 28322
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 84 SSS"
+  server: gyjd.yy9866.com
+  port: 45092
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 85 SSS"
+  server: gyjd.yy9866.com
+  port: 34502
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 86 SSS"
+  server: gyjd.yy9866.com
+  port: 39062
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 87 SSS"
+  server: gyjd.yy9866.com
+  port: 23896
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 88 SSS"
+  server: gyjd.yy9866.com
+  port: 22425
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 89 SSS"
+  server: gyjd.yy9866.com
+  port: 27828
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 38c5455f-8827-44dd-952b-e666614ad7c6
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 90 SSS"
+  server: gy11.gsulink.top
+  port: 53387
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 91 SSS"
+  server: gy11.gsulink.top
+  port: 14187
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 92 SSS"
+  server: gy11.gsulink.top
+  port: 40063
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 93 SSS"
+  server: gyjd.yy9866.com
+  port: 21000
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 94 SSS"
+  server: gy11.gsulink.top
+  port: 43295
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 95 SSS"
+  server: gy11.gsulink.top
+  port: 54693
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 96 SSS"
+  server: gy11.gsulink.top
+  port: 32008
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 97 SSS"
+  server: gy11.gsulink.top
+  port: 17254
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 98 SSS"
+  server: gy11.gsulink.top
+  port: 57577
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 99 SSS"
+  server: gy11.gsulink.top
+  port: 30348
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 100 SSS"
+  server: gy11.gsulink.top
+  port: 48907
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 101 SSS"
+  server: gy11.gsulink.top
+  port: 28675
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 69efb560-d6e3-4d9d-9433-db786749c380
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 102 SSS"
+  server: gyjd.yy9866.com
+  port: 8965
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 103 SSS"
+  server: gyjd.yy9866.com
+  port: 21000
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 104 SSS"
+  server: gyjd.yy9866.com
+  port: 48917
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 105 SSS"
+  server: gyjd.yy9866.com
+  port: 48917
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 106 SSS"
+  server: gyjd.yy9866.com
+  port: 21525
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 107 SSS"
+  server: gyjd.yy9866.com
+  port: 16947
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 108 SSS"
+  server: gyjd.yy9866.com
+  port: 39263
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 109 SSS"
+  server: gyjd.yy9866.com
+  port: 23262
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 110 SSS"
+  server: gyjd.yy9866.com
+  port: 28322
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 111 SSS"
+  server: gyjd.yy9866.com
+  port: 45092
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 112 SSS"
+  server: gyjd.yy9866.com
+  port: 34502
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 113 SSS"
+  server: gyjd.yy9866.com
+  port: 39062
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 114 SSS"
+  server: gyjd.yy9866.com
+  port: 23896
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 115 SSS"
+  server: gyjd.yy9866.com
+  port: 21525
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 116 SSS"
+  server: gyjd.yy9866.com
+  port: 22425
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 117 SSS"
+  server: gyjd.yy9866.com
+  port: 27828
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e3050e1a-6797-40a3-a512-9a790120722f
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 118 SSS"
+  server: gymz2.ldldfwq.top
+  port: 34061
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 119 SSS"
+  server: gygyjiqi.sefgswgekt.top
+  port: 28063
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 120 SSS"
+  server: gygyjiqi.sefgswgekt.top
+  port: 10589
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 121 SSS"
+  server: gygyjiqi.sefgswgekt.top
+  port: 57927
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 122 SSS"
+  server: gygyjiqi.sefgswgekt.top
+  port: 18148
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 123 SSS"
+  server: gygyjiqi.sefgswgekt.top
+  port: 43076
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 124 SSS"
+  server: gygyjiqi.sefgswgekt.top
+  port: 46197
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 125 SSS"
+  server: gygyjiqi.sefgswgekt.top
+  port: 12589
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 126 SSS"
+  server: gyjd.yy9866.com
+  port: 16947
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 127 SSS"
+  server: gy1.ldldfwq.top
+  port: 41431
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 128 SSS"
+  server: gy11.gsulink.top
+  port: 13828
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 129 SSS"
+  server: gy11.gsulink.top
+  port: 18140
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 130 SSS"
+  server: gy1.ldldfwq.top
+  port: 18140
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 131 SSS"
+  server: gy11.gsulink.top
+  port: 34411
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 132 SSS"
+  server: gy11.gsulink.top
+  port: 33744
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 133 SSS"
+  server: gy11.gsulink.top
+  port: 18244
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 134 SSS"
+  server: gy1.ldldfwq.top
+  port: 55936
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 135 SSS"
+  server: gy1.ldldfwq.top
+  port: 20149
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 136 SSS"
+  server: gygyjiqi.sefgswgekt.top
+  port: 39037
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9620c9ee-bed2-4de6-a001-a97a806d644a
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 137 SSS"
+  server: gyjd.yy9866.com
+  port: 39263
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 138 SSS"
+  server: gyjd.yy9866.com
+  port: 8965
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 139 SSS"
+  server: gyjd.yy9866.com
+  port: 21000
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 140 SSS"
+  server: gyjd.yy9866.com
+  port: 48917
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 141 SSS"
+  server: gyjd.yy9866.com
+  port: 21525
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 142 SSS"
+  server: gyjd.yy9866.com
+  port: 16947
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 143 SSS"
+  server: gyjd.yy9866.com
+  port: 39263
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 144 SSS"
+  server: gyjd.yy9866.com
+  port: 23262
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 145 SSS"
+  server: gyjd.yy9866.com
+  port: 28322
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 146 SSS"
+  server: gyjd.yy9866.com
+  port: 45092
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 147 SSS"
+  server: gyjd.yy9866.com
+  port: 34502
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 148 SSS"
+  server: gyjd.yy9866.com
+  port: 23262
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 149 SSS"
+  server: gyjd.yy9866.com
+  port: 39062
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 150 SSS"
+  server: gyjd.yy9866.com
+  port: 23896
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 151 SSS"
+  server: gyjd.yy9866.com
+  port: 22425
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 152 SSS"
+  server: gyjd.yy9866.com
+  port: 27828
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 870ba2c5-6217-46b6-be08-1d2dedfb2786
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 153 SSS"
+  server: gyjd.yy9866.com
+  port: 8965
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 154 SSS"
+  server: gyjd.yy9866.com
+  port: 21000
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 155 SSS"
+  server: gyjd.yy9866.com
+  port: 48917
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 156 SSS"
+  server: gyjd.yy9866.com
+  port: 21525
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 157 SSS"
+  server: gyjd.yy9866.com
+  port: 16947
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 158 SSS"
+  server: gyjd.yy9866.com
+  port: 39263
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 159 SSS"
+  server: gyjd.yy9866.com
+  port: 28322
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 160 SSS"
+  server: gyjd.yy9866.com
+  port: 23262
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 161 SSS"
+  server: gyjd.yy9866.com
+  port: 28322
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 162 SSS"
+  server: gyjd.yy9866.com
+  port: 45092
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 163 SSS"
+  server: gyjd.yy9866.com
+  port: 34502
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 164 SSS"
+  server: gyjd.yy9866.com
+  port: 39062
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 165 SSS"
+  server: gyjd.yy9866.com
+  port: 23896
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 166 SSS"
+  server: gyjd.yy9866.com
+  port: 22425
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 167 SSS"
+  server: gyjd.yy9866.com
+  port: 27828
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: fc60788f-28fe-4fc5-9240-774e11167af2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 168 SSS"
+  server: always.chenyi.pw
+  port: 23201
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 5517268e-454b-490a-b2aa-60cc40c50066
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 169 SSS"
+  server: always.chenyi.pw
+  port: 23202
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 5517268e-454b-490a-b2aa-60cc40c50066
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 170 SSS"
+  server: gyjd.yy9866.com
+  port: 45092
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ddfd4e8d-9d3b-423c-b421-cfa187c761c2
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 171 SSS"
+  server: always.chenyi.pw
+  port: 23203
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 5517268e-454b-490a-b2aa-60cc40c50066
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 172 SSS"
+  server: always.chenyi.pw
+  port: 23204
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 5517268e-454b-490a-b2aa-60cc40c50066
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 173 SSS"
+  server: always.chenyi.pw
+  port: 23205
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 5517268e-454b-490a-b2aa-60cc40c50066
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 174 SSS"
+  server: always.chenyi.pw
+  port: 23206
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 5517268e-454b-490a-b2aa-60cc40c50066
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 175 SSS"
+  server: node1.cenidcbf.ink
+  port: 19688
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 176 SSS"
+  server: node2.cenidcbf.ink
+  port: 23746
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 177 SSS"
+  server: abc.xunyunnode.sbs
+  port: 16720
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 178 SSS"
+  server: bgc.xunyunnode.sbs
+  port: 25856
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 179 SSS"
+  server: node1.cenidcbf.ink
+  port: 13058
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1E8\U0001F1F3 CN 180 SSS"
+  server: node2.cenidcbf.ink
+  port: 14202
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 87f2c633-6059-4c98-a746-f23281546ada
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 181 VMS"
+  server: neko1.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 182 VMS"
+  server: ik3.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 183 VMS"
+  server: ik4.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 184 VMS"
+  server: ik5.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 185 VMS"
+  server: ik6.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 186 VMS"
+  server: ik8.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 187 VMS"
+  server: neko1.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 188 VMS"
+  server: neko2.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 189 VMS"
+  server: neko3.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 190 VMS"
+  server: neko4.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 191 VMS"
+  server: neko5.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 192 VMS"
+  server: neko2.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 193 VMS"
+  server: neko6.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 194 VMS"
+  server: neko7.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 195 VMS"
+  server: ik1.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 196 VMS"
+  server: ik2.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 197 VMS"
+  server: ik3.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 198 VMS"
+  server: ik4.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 199 VMS"
+  server: ik5.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 200 VMS"
+  server: ik6.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 201 VMS"
+  server: ik8.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 04001790-f85b-4012-8971-7272006fd092
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 202 VMS"
+  server: neko3.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 203 VMS"
+  server: neko4.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 204 VMS"
+  server: neko5.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 205 VMS"
+  server: neko6.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 206 VMS"
+  server: neko7.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 207 VMS"
+  server: ik1.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F9\U0001F1FC TW 208 VMS"
+  server: ik2.i2345.org
+  port: 9998
+  type: vmess
+  uuid: 3ba6831c-c387-4bdd-a8ff-90a74eb979a1
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F3 UN 209 SSR"
+  server: 'NULL'
+  port: 11708
+  type: ssr
+  country: 'NULL'
+  password: sEscPBiAD9K$&@79
+  cipher: aes-256-cfb
+  protocol: origin
+  protocol_param: 'NULL'
+  obfs: http_simple
+proxy-groups:
+- name: automatic
+  type: url-test
+  proxies:
+  - "\U0001F1F9\U0001F1FC TW 1 TJN"
+  - "\U0001F1F9\U0001F1FC TW 2 TJN"
+  - "\U0001F1F9\U0001F1FC TW 3 TJN"
+  - "\U0001F1F9\U0001F1FC TW 4 TJN"
+  - "\U0001F1F9\U0001F1FC TW 5 TJN"
+  - "\U0001F1F9\U0001F1FC TW 6 TJN"
+  - "\U0001F1F9\U0001F1FC TW 7 TJN"
+  - "\U0001F1F9\U0001F1FC TW 8 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 9 TJN"
+  - "\U0001F1F2\U0001F1F4 MO 10 TJN"
+  - "\U0001F1F2\U0001F1F4 MO 11 TJN"
+  - "\U0001F1F2\U0001F1F4 MO 12 TJN"
+  - "\U0001F1F9\U0001F1FC TW 13 TJN"
+  - "\U0001F1F9\U0001F1FC TW 14 TJN"
+  - "\U0001F1E8\U0001F1F3 CN 15 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 16 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 17 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 18 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 19 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 20 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 21 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 22 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 23 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 24 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 25 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 26 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 27 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 28 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 29 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 30 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 31 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 32 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 33 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 34 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 35 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 36 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 37 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 38 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 39 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 40 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 41 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 42 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 43 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 44 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 45 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 46 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 47 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 48 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 49 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 50 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 51 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 52 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 53 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 54 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 55 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 56 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 57 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 58 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 59 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 60 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 61 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 62 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 63 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 64 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 65 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 66 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 67 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 68 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 69 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 70 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 71 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 72 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 73 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 74 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 75 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 76 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 77 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 78 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 79 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 80 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 81 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 82 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 83 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 84 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 85 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 86 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 87 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 88 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 89 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 90 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 91 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 92 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 93 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 94 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 95 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 96 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 97 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 98 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 99 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 100 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 101 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 102 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 103 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 104 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 105 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 106 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 107 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 108 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 109 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 110 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 111 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 112 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 113 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 114 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 115 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 116 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 117 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 118 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 119 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 120 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 121 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 122 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 123 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 124 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 125 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 126 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 127 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 128 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 129 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 130 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 131 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 132 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 133 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 134 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 135 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 136 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 137 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 138 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 139 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 140 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 141 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 142 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 143 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 144 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 145 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 146 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 147 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 148 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 149 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 150 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 151 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 152 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 153 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 154 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 155 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 156 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 157 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 158 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 159 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 160 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 161 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 162 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 163 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 164 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 165 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 166 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 167 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 168 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 169 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 170 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 171 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 172 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 173 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 174 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 175 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 176 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 177 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 178 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 179 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 180 SSS"
+  - "\U0001F1F9\U0001F1FC TW 181 VMS"
+  - "\U0001F1F9\U0001F1FC TW 182 VMS"
+  - "\U0001F1F9\U0001F1FC TW 183 VMS"
+  - "\U0001F1F9\U0001F1FC TW 184 VMS"
+  - "\U0001F1F9\U0001F1FC TW 185 VMS"
+  - "\U0001F1F9\U0001F1FC TW 186 VMS"
+  - "\U0001F1F9\U0001F1FC TW 187 VMS"
+  - "\U0001F1F9\U0001F1FC TW 188 VMS"
+  - "\U0001F1F9\U0001F1FC TW 189 VMS"
+  - "\U0001F1F9\U0001F1FC TW 190 VMS"
+  - "\U0001F1F9\U0001F1FC TW 191 VMS"
+  - "\U0001F1F9\U0001F1FC TW 192 VMS"
+  - "\U0001F1F9\U0001F1FC TW 193 VMS"
+  - "\U0001F1F9\U0001F1FC TW 194 VMS"
+  - "\U0001F1F9\U0001F1FC TW 195 VMS"
+  - "\U0001F1F9\U0001F1FC TW 196 VMS"
+  - "\U0001F1F9\U0001F1FC TW 197 VMS"
+  - "\U0001F1F9\U0001F1FC TW 198 VMS"
+  - "\U0001F1F9\U0001F1FC TW 199 VMS"
+  - "\U0001F1F9\U0001F1FC TW 200 VMS"
+  - "\U0001F1F9\U0001F1FC TW 201 VMS"
+  - "\U0001F1F9\U0001F1FC TW 202 VMS"
+  - "\U0001F1F9\U0001F1FC TW 203 VMS"
+  - "\U0001F1F9\U0001F1FC TW 204 VMS"
+  - "\U0001F1F9\U0001F1FC TW 205 VMS"
+  - "\U0001F1F9\U0001F1FC TW 206 VMS"
+  - "\U0001F1F9\U0001F1FC TW 207 VMS"
+  - "\U0001F1F9\U0001F1FC TW 208 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 209 SSR"
+  url: https://www.google.com/favicon.ico
+  interval: 300
+- name: "\U0001F310 Proxy"
+  type: select
+  proxies:
+  - automatic
+  - "\U0001F1F9\U0001F1FC TW 1 TJN"
+  - "\U0001F1F9\U0001F1FC TW 2 TJN"
+  - "\U0001F1F9\U0001F1FC TW 3 TJN"
+  - "\U0001F1F9\U0001F1FC TW 4 TJN"
+  - "\U0001F1F9\U0001F1FC TW 5 TJN"
+  - "\U0001F1F9\U0001F1FC TW 6 TJN"
+  - "\U0001F1F9\U0001F1FC TW 7 TJN"
+  - "\U0001F1F9\U0001F1FC TW 8 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 9 TJN"
+  - "\U0001F1F2\U0001F1F4 MO 10 TJN"
+  - "\U0001F1F2\U0001F1F4 MO 11 TJN"
+  - "\U0001F1F2\U0001F1F4 MO 12 TJN"
+  - "\U0001F1F9\U0001F1FC TW 13 TJN"
+  - "\U0001F1F9\U0001F1FC TW 14 TJN"
+  - "\U0001F1E8\U0001F1F3 CN 15 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 16 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 17 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 18 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 19 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 20 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 21 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 22 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 23 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 24 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 25 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 26 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 27 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 28 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 29 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 30 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 31 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 32 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 33 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 34 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 35 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 36 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 37 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 38 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 39 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 40 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 41 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 42 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 43 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 44 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 45 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 46 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 47 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 48 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 49 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 50 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 51 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 52 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 53 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 54 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 55 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 56 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 57 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 58 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 59 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 60 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 61 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 62 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 63 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 64 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 65 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 66 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 67 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 68 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 69 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 70 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 71 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 72 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 73 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 74 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 75 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 76 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 77 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 78 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 79 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 80 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 81 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 82 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 83 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 84 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 85 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 86 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 87 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 88 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 89 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 90 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 91 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 92 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 93 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 94 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 95 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 96 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 97 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 98 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 99 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 100 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 101 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 102 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 103 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 104 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 105 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 106 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 107 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 108 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 109 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 110 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 111 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 112 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 113 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 114 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 115 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 116 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 117 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 118 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 119 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 120 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 121 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 122 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 123 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 124 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 125 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 126 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 127 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 128 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 129 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 130 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 131 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 132 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 133 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 134 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 135 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 136 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 137 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 138 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 139 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 140 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 141 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 142 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 143 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 144 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 145 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 146 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 147 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 148 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 149 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 150 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 151 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 152 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 153 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 154 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 155 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 156 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 157 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 158 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 159 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 160 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 161 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 162 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 163 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 164 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 165 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 166 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 167 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 168 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 169 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 170 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 171 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 172 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 173 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 174 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 175 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 176 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 177 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 178 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 179 SSS"
+  - "\U0001F1E8\U0001F1F3 CN 180 SSS"
+  - "\U0001F1F9\U0001F1FC TW 181 VMS"
+  - "\U0001F1F9\U0001F1FC TW 182 VMS"
+  - "\U0001F1F9\U0001F1FC TW 183 VMS"
+  - "\U0001F1F9\U0001F1FC TW 184 VMS"
+  - "\U0001F1F9\U0001F1FC TW 185 VMS"
+  - "\U0001F1F9\U0001F1FC TW 186 VMS"
+  - "\U0001F1F9\U0001F1FC TW 187 VMS"
+  - "\U0001F1F9\U0001F1FC TW 188 VMS"
+  - "\U0001F1F9\U0001F1FC TW 189 VMS"
+  - "\U0001F1F9\U0001F1FC TW 190 VMS"
+  - "\U0001F1F9\U0001F1FC TW 191 VMS"
+  - "\U0001F1F9\U0001F1FC TW 192 VMS"
+  - "\U0001F1F9\U0001F1FC TW 193 VMS"
+  - "\U0001F1F9\U0001F1FC TW 194 VMS"
+  - "\U0001F1F9\U0001F1FC TW 195 VMS"
+  - "\U0001F1F9\U0001F1FC TW 196 VMS"
+  - "\U0001F1F9\U0001F1FC TW 197 VMS"
+  - "\U0001F1F9\U0001F1FC TW 198 VMS"
+  - "\U0001F1F9\U0001F1FC TW 199 VMS"
+  - "\U0001F1F9\U0001F1FC TW 200 VMS"
+  - "\U0001F1F9\U0001F1FC TW 201 VMS"
+  - "\U0001F1F9\U0001F1FC TW 202 VMS"
+  - "\U0001F1F9\U0001F1FC TW 203 VMS"
+  - "\U0001F1F9\U0001F1FC TW 204 VMS"
+  - "\U0001F1F9\U0001F1FC TW 205 VMS"
+  - "\U0001F1F9\U0001F1FC TW 206 VMS"
+  - "\U0001F1F9\U0001F1FC TW 207 VMS"
+  - "\U0001F1F9\U0001F1FC TW 208 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 209 SSR"
+rules:
+- "MATCH,\U0001F310 Proxy"
