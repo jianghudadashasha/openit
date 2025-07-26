@@ -100,9 +100,9 @@ proxies:
   password: b84d16a244460e09
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1E9\U0001F1EA DE 15 VMS"
+- name: "\U0001F1F0\U0001F1F7 KR 15 VMS"
   server: js1.76po.com
-  port: 44639
+  port: 13526
   type: vmess
   uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb
   alterId: 0
@@ -110,9 +110,9 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1E9\U0001F1EA DE 16 VMS"
+- name: "\U0001F1F0\U0001F1F7 KR 16 VMS"
   server: js1.76po.com
-  port: 26480
+  port: 42737
   type: vmess
   uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb
   alterId: 0
@@ -1811,8 +1811,8 @@ proxies:
       Host: twtw.henyo.us
   udp: true
 - name: "\U0001F1FA\U0001F1F8 US 171 SSR"
-  server: ntemp18.boom.skin
-  port: 23000
+  server: ntemp17.boom.skin
+  port: 22000
   type: ssr
   cipher: aes-256-cfb
   password: Uk92CS
@@ -1821,7 +1821,38 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 172 SSR"
+- name: "\U0001F1F0\U0001F1F7 KR 172 VMS"
+  server: js1.76po.com
+  port: 51238
+  type: vmess
+  uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1F0\U0001F1F7 KR 173 VMS"
+  server: js1.76po.com
+  port: 26480
+  type: vmess
+  uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 174 SSR"
+  server: ntemp01.boom.skin
+  port: 10000
+  type: ssr
+  cipher: aes-256-cfb
+  password: Uk92CS
+  protocol: auth_aes128_sha1
+  obfs: http_simple
+  protocol-param: 1025036:boxQe1
+  obfs-param: download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 175 SSR"
   server: ntemp04.boom.skin
   port: 13000
   type: ssr
@@ -1832,9 +1863,9 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 173 SSR"
-  server: ntemp07.boom.skin
-  port: 16000
+- name: "\U0001F1FA\U0001F1F8 US 176 SSR"
+  server: ntemp09.boom.skin
+  port: 18000
   type: ssr
   cipher: aes-256-cfb
   password: Uk92CS
@@ -1843,7 +1874,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 174 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 177 SSR"
   server: nk2.boom.skin
   port: 12000
   type: ssr
@@ -1854,9 +1885,9 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 175 SSR"
-  server: nk7.boom.skin
-  port: 17000
+- name: "\U0001F1FA\U0001F1F8 US 178 SSR"
+  server: n170.boom.skin
+  port: 33000
   type: ssr
   cipher: aes-256-cfb
   password: Uk92CS
@@ -1865,9 +1896,9 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 176 SSR"
-  server: nke.boom.skin
-  port: 24000
+- name: "\U0001F1FA\U0001F1F8 US 179 SSR"
+  server: nka.boom.skin
+  port: 20000
   type: ssr
   cipher: aes-256-cfb
   password: Uk92CS
@@ -1876,37 +1907,29 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1E9\U0001F1EA DE 177 VMS"
-  server: js1.76po.com
-  port: 42737
-  type: vmess
-  uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb
-  alterId: 0
-  cipher: auto
-  tls: false
-  skip-cert-verify: true
+- name: "\U0001F1FA\U0001F1F8 US 180 SSR"
+  server: nna.boom.skin
+  port: 49000
+  type: ssr
+  cipher: aes-256-cfb
+  password: Uk92CS
+  protocol: auth_aes128_sha1
+  obfs: http_simple
+  protocol-param: 1025036:boxQe1
+  obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1E9\U0001F1EA DE 178 VMS"
-  server: js1.76po.com
-  port: 51238
-  type: vmess
-  uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb
-  alterId: 0
-  cipher: auto
-  tls: false
-  skip-cert-verify: true
+- name: "\U0001F1FA\U0001F1F8 US 181 SSR"
+  server: nn11.boom.skin
+  port: 50000
+  type: ssr
+  cipher: aes-256-cfb
+  password: Uk92CS
+  protocol: auth_aes128_sha1
+  obfs: http_simple
+  protocol-param: 1025036:boxQe1
+  obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1E9\U0001F1EA DE 179 VMS"
-  server: js1.76po.com
-  port: 51594
-  type: vmess
-  uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb
-  alterId: 0
-  cipher: auto
-  tls: false
-  skip-cert-verify: true
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 HK 180 VMS"
+- name: "\U0001F1ED\U0001F1F0 HK 182 VMS"
   server: hk1.594888.xyz
   port: 2443
   type: vmess
@@ -1921,371 +1944,442 @@ proxies:
     headers:
       Host: hk1.594888.xyz
   udp: true
-- name: "\U0001F1ED\U0001F1F0 HK 181 SSS"
-  server: llp-shct.acgyt.com
-  port: 47400
-  type: ss
-  cipher: aes-256-gcm
-  password: a4997171-c677-452e-bc67-165fc9c3f37d
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 HK 182 SSS"
-  server: gzdx.acgyt.com
-  port: 47400
-  type: ss
-  cipher: aes-256-gcm
-  password: a4997171-c677-452e-bc67-165fc9c3f37d
-  udp: true
-- name: "\U0001F1ED\U0001F1F0 HK 183 SSS"
-  server: gzdx.acgyt.com
-  port: 18994
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: a4997171-c677-452e-bc67-165fc9c3f37d
+- name: "\U0001F1ED\U0001F1F0 HK 183 VMS"
+  server: hk2.594888.xyz
+  port: 443
+  type: vmess
+  uuid: 858641c3-40e7-3bd1-8a9e-e6840cd7decb
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /hls/us8.m3u8
+    headers:
+      Host: hk2.594888.xyz
   udp: true
 - name: "\U0001F1ED\U0001F1F0 HK 184 SSS"
   server: llp-shct.acgyt.com
+  port: 47400
+  type: ss
+  cipher: aes-256-gcm
+  password: a4997171-c677-452e-bc67-165fc9c3f37d
+  udp: true
+- name: "\U0001F1ED\U0001F1F0 HK 185 SSS"
+  server: gzdx.acgyt.com
+  port: 47400
+  type: ss
+  cipher: aes-256-gcm
+  password: a4997171-c677-452e-bc67-165fc9c3f37d
+  udp: true
+- name: "\U0001F1ED\U0001F1F0 HK 186 SSS"
+  server: gzdx.acgyt.com
   port: 18994
   type: ss
   cipher: chacha20-ietf-poly1305
   password: a4997171-c677-452e-bc67-165fc9c3f37d
   udp: true
-- name: "\U0001F1ED\U0001F1F0 HK 185 SSS"
+- name: "\U0001F1ED\U0001F1F0 HK 187 SSS"
+  server: llp-shct.acgyt.com
+  port: 18994
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: a4997171-c677-452e-bc67-165fc9c3f37d
+  udp: true
+- name: "\U0001F1ED\U0001F1F0 HK 188 SSS"
   server: hzdx.acgyt.com
   port: 18994
   type: ss
   cipher: chacha20-ietf-poly1305
   password: a4997171-c677-452e-bc67-165fc9c3f37d
   udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 186 SSS"
+- name: "\U0001F1EF\U0001F1F5 JP 189 SSS"
   server: host-001.crazyspeed.xyz
   port: 30501
   type: ss
   cipher: chacha20-ietf-poly1305
   password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
   udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 187 SSS"
-  server: host-012.crazyspeed.xyz
-  port: 30602
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 188 SSS"
-  server: host-013.crazyspeed.xyz
-  port: 30603
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 189 SSS"
-  server: host-014.crazyspeed.xyz
-  port: 30604
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
 - name: "\U0001F1EF\U0001F1F5 JP 190 SSS"
-  server: host-015.crazyspeed.xyz
-  port: 30605
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 191 SSS"
-  server: host-016.crazyspeed.xyz
-  port: 30606
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 192 SSS"
-  server: host-017.crazyspeed.xyz
-  port: 30607
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 193 SSS"
-  server: host-021.crazyspeed.xyz
-  port: 21001
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 194 SSS"
-  server: host-022.crazyspeed.xyz
-  port: 21002
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 195 SSS"
-  server: host-023.crazyspeed.xyz
-  port: 21003
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 196 SSS"
-  server: host-026.crazyspeed.xyz
-  port: 21006
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 197 SSS"
-  server: host-002.crazyspeed.xyz
-  port: 30502
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 198 SSS"
-  server: host-027.crazyspeed.xyz
-  port: 21007
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 199 SSS"
-  server: host-028.crazyspeed.xyz
-  port: 21008
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 200 SSS"
-  server: host-029.crazyspeed.xyz
-  port: 21009
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 201 SSS"
-  server: host-031.crazyspeed.xyz
-  port: 10351
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 202 SSS"
-  server: host-032.crazyspeed.xyz
-  port: 10352
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 203 SSS"
-  server: host-033.crazyspeed.xyz
-  port: 10353
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 204 SSS"
-  server: host-035.crazyspeed.xyz
-  port: 10355
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 205 SSS"
-  server: host-036.crazyspeed.xyz
-  port: 16010
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 206 SSS"
-  server: host-037.crazyspeed.xyz
-  port: 16011
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 207 SSS"
-  server: host-038.crazyspeed.xyz
-  port: 16012
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 208 SSS"
-  server: host-003.crazyspeed.xyz
-  port: 30503
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 209 SSS"
-  server: host-040.crazyspeed.xyz
-  port: 16014
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 210 SSS"
-  server: host-042.crazyspeed.xyz
-  port: 16016
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 211 SSS"
-  server: host-041.crazyspeed.xyz
-  port: 16015
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 212 SSS"
-  server: host-043.crazyspeed.xyz
-  port: 34401
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 213 SSS"
-  server: host-044.crazyspeed.xyz
-  port: 34402
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 214 SSS"
-  server: host-045.crazyspeed.xyz
-  port: 34901
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 215 SSS"
-  server: host-046.crazyspeed.xyz
-  port: 34902
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 216 SSS"
-  server: host-047.crazyspeed.xyz
-  port: 34903
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 217 SSS"
-  server: host-048.crazyspeed.xyz
-  port: 34904
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 218 SSS"
-  server: host-049.crazyspeed.xyz
-  port: 34905
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 219 SSS"
-  server: host-004.crazyspeed.xyz
-  port: 30504
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 220 SSS"
-  server: host-050.crazyspeed.xyz
-  port: 34906
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 221 SSS"
-  server: host-051.crazyspeed.xyz
-  port: 20061
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 222 SSS"
-  server: host-053.crazyspeed.xyz
-  port: 10911
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 223 SSS"
-  server: host-054.crazyspeed.xyz
-  port: 20071
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 224 SSS"
-  server: host-056.crazyspeed.xyz
-  port: 19002
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 225 SSS"
-  server: host-058.crazyspeed.xyz
-  port: 19005
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 226 SSS"
-  server: host-059.crazyspeed.xyz
-  port: 19006
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 227 SSS"
-  server: host-060.crazyspeed.xyz
-  port: 19008
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 228 SSS"
-  server: host-005.crazyspeed.xyz
-  port: 30505
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 229 SSS"
-  server: host-007.crazyspeed.xyz
-  port: 30507
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 230 SSS"
-  server: host-009.crazyspeed.xyz
-  port: 30509
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
-  udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 231 SSS"
   server: host-010.crazyspeed.xyz
   port: 30510
   type: ss
   cipher: chacha20-ietf-poly1305
   password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
   udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 232 SSS"
+- name: "\U0001F1EF\U0001F1F5 JP 191 SSS"
   server: host-011.crazyspeed.xyz
   port: 30601
   type: ss
   cipher: chacha20-ietf-poly1305
   password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
   udp: true
-- name: "\U0001F1F8\U0001F1EC SG 233 VMS"
+- name: "\U0001F1EF\U0001F1F5 JP 192 SSS"
+  server: host-012.crazyspeed.xyz
+  port: 30602
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 193 SSS"
+  server: host-013.crazyspeed.xyz
+  port: 30603
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 194 SSS"
+  server: host-014.crazyspeed.xyz
+  port: 30604
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 195 SSS"
+  server: host-015.crazyspeed.xyz
+  port: 30605
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 196 SSS"
+  server: host-016.crazyspeed.xyz
+  port: 30606
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 197 SSS"
+  server: host-017.crazyspeed.xyz
+  port: 30607
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 198 SSS"
+  server: host-018.crazyspeed.xyz
+  port: 30608
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 199 SSS"
+  server: host-021.crazyspeed.xyz
+  port: 21001
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 200 SSS"
+  server: host-002.crazyspeed.xyz
+  port: 30502
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 201 SSS"
+  server: host-022.crazyspeed.xyz
+  port: 21002
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 202 SSS"
+  server: host-023.crazyspeed.xyz
+  port: 21003
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 203 SSS"
+  server: host-026.crazyspeed.xyz
+  port: 21006
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 204 SSS"
+  server: host-027.crazyspeed.xyz
+  port: 21007
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 205 SSS"
+  server: host-028.crazyspeed.xyz
+  port: 21008
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 206 SSS"
+  server: host-029.crazyspeed.xyz
+  port: 21009
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 207 SSS"
+  server: host-030.crazyspeed.xyz
+  port: 21010
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 208 SSS"
+  server: host-031.crazyspeed.xyz
+  port: 10351
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 209 SSS"
+  server: host-032.crazyspeed.xyz
+  port: 10352
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 210 SSS"
+  server: host-034.crazyspeed.xyz
+  port: 10354
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 211 SSS"
+  server: host-003.crazyspeed.xyz
+  port: 30503
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 212 SSS"
+  server: host-035.crazyspeed.xyz
+  port: 10355
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 213 SSS"
+  server: host-036.crazyspeed.xyz
+  port: 16010
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 214 SSS"
+  server: host-037.crazyspeed.xyz
+  port: 16011
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 215 SSS"
+  server: host-038.crazyspeed.xyz
+  port: 16012
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 216 SSS"
+  server: host-039.crazyspeed.xyz
+  port: 16013
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 217 SSS"
+  server: host-040.crazyspeed.xyz
+  port: 16014
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 218 SSS"
+  server: host-042.crazyspeed.xyz
+  port: 16016
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 219 SSS"
+  server: host-041.crazyspeed.xyz
+  port: 16015
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 220 SSS"
+  server: host-043.crazyspeed.xyz
+  port: 34401
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 221 SSS"
+  server: host-044.crazyspeed.xyz
+  port: 34402
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 222 SSS"
+  server: host-004.crazyspeed.xyz
+  port: 30504
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 223 SSS"
+  server: host-045.crazyspeed.xyz
+  port: 34901
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 224 SSS"
+  server: host-046.crazyspeed.xyz
+  port: 34902
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 225 SSS"
+  server: host-047.crazyspeed.xyz
+  port: 34903
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 226 SSS"
+  server: host-048.crazyspeed.xyz
+  port: 34904
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 227 SSS"
+  server: host-049.crazyspeed.xyz
+  port: 34905
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 228 SSS"
+  server: host-050.crazyspeed.xyz
+  port: 34906
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 229 SSS"
+  server: host-051.crazyspeed.xyz
+  port: 20061
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 230 SSS"
+  server: host-052.crazyspeed.xyz
+  port: 20062
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 231 SSS"
+  server: host-053.crazyspeed.xyz
+  port: 10911
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 232 SSS"
+  server: host-054.crazyspeed.xyz
+  port: 20071
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 233 SSS"
+  server: host-005.crazyspeed.xyz
+  port: 30505
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 234 SSS"
+  server: host-055.crazyspeed.xyz
+  port: 19001
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 235 SSS"
+  server: host-056.crazyspeed.xyz
+  port: 19002
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 236 SSS"
+  server: host-057.crazyspeed.xyz
+  port: 19003
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 237 SSS"
+  server: host-058.crazyspeed.xyz
+  port: 19005
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 238 SSS"
+  server: host-059.crazyspeed.xyz
+  port: 19006
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 239 SSS"
+  server: host-060.crazyspeed.xyz
+  port: 19008
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 240 SSS"
+  server: host-006.crazyspeed.xyz
+  port: 30506
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 241 SSS"
+  server: host-007.crazyspeed.xyz
+  port: 30507
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 242 SSS"
+  server: host-008.crazyspeed.xyz
+  port: 30508
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1EF\U0001F1F5 JP 243 SSS"
+  server: host-009.crazyspeed.xyz
+  port: 30509
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: e32da9eb-7c2e-4937-92c1-03c466c6fca6
+  udp: true
+- name: "\U0001F1F8\U0001F1EC SG 244 VMS"
   server: sg1.594888.xyz
   port: 443
   type: vmess
@@ -2300,7 +2394,7 @@ proxies:
     headers:
       Host: sg1.594888.xyz
   udp: true
-- name: "\U0001F1F8\U0001F1EC SG 234 VMS"
+- name: "\U0001F1F8\U0001F1EC SG 245 VMS"
   server: sg2.594888.xyz
   port: 443
   type: vmess
@@ -2315,7 +2409,7 @@ proxies:
     headers:
       Host: sg2.594888.xyz
   udp: true
-- name: "\U0001F1E9\U0001F1EA DE 235 VMS"
+- name: "\U0001F1EE\U0001F1F9 IT 246 VMS"
   server: dagebeidale.donghui.tech
   port: 43125
   type: vmess
@@ -2330,127 +2424,6 @@ proxies:
     headers:
       Host: dagebeidale.donghui.tech
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 236 SSR"
-  server: ntemp01.boom.skin
-  port: 10000
-  type: ssr
-  cipher: aes-256-cfb
-  password: Uk92CS
-  protocol: auth_aes128_sha1
-  obfs: http_simple
-  protocol-param: 1025036:boxQe1
-  obfs-param: download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 237 SSS"
-  server: canvas.unclemanco.com
-  port: 904
-  type: ss
-  cipher: aes-128-gcm
-  password: a12cloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 238 SSS"
-  server: canvas.unclemanco.com
-  port: 824
-  type: ss
-  cipher: aes-128-gcm
-  password: ayu1245
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 239 SSS"
-  server: canvas.unclemanco.com
-  port: 9054
-  type: ss
-  cipher: aes-128-gcm
-  password: QHPy2u
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 240 SSS"
-  server: canvas.unclemanco.com
-  port: 9063
-  type: ss
-  cipher: aes-128-gcm
-  password: QHPy2u
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 241 SSS"
-  server: canvas.unclemanco.com
-  port: 20012
-  type: ss
-  cipher: aes-128-gcm
-  password: QHPy2u
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 242 SSS"
-  server: canvas.unclemanco.com
-  port: 907
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucles1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 243 SSS"
-  server: canvas.unclemanco.com
-  port: 823
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 244 SSS"
-  server: canvas.unclemanco.com
-  port: 9059
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 245 SSS"
-  server: canvas.unclemanco.com
-  port: 9062
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 246 SSS"
-  server: canvas.unclemanco.com
-  port: 819
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
 - name: "\U0001F1FA\U0001F1F8 US 247 SSR"
   server: ntemp02.boom.skin
   port: 11000
@@ -2464,7 +2437,7 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 248 SSS"
   server: canvas.unclemanco.com
-  port: 9021
+  port: 825
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
@@ -2475,7 +2448,7 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 249 SSS"
   server: canvas.unclemanco.com
-  port: 914
+  port: 834
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
@@ -2486,18 +2459,7 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 250 SSS"
   server: canvas.unclemanco.com
-  port: 909
-  type: ss
-  cipher: aes-128-gcm
-  password: ayu1245
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 251 SSS"
-  server: canvas.unclemanco.com
-  port: 918
+  port: 908
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
@@ -2506,42 +2468,9 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 252 SSS"
+- name: "\U0001F1FF\U0001F1E6 ZA 251 SSS"
   server: canvas.unclemanco.com
-  port: 811
-  type: ss
-  cipher: aes-128-gcm
-  password: ay2dsd1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 253 SSS"
-  server: canvas.unclemanco.com
-  port: 1313
-  type: ss
-  cipher: aes-128-gcm
-  password: fjlfjafl231303831
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 254 SSS"
-  server: canvas.unclemanco.com
-  port: 901
-  type: ss
-  cipher: aes-128-gcm
-  password: ay21d1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 255 SSS"
-  server: canvas.unclemanco.com
-  port: 9873
+  port: 9040
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
@@ -2550,9 +2479,53 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 252 SSS"
+  server: canvas.unclemanco.com
+  port: 835
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 253 SSS"
+  server: canvas.unclemanco.com
+  port: 905
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 254 SSS"
+  server: canvas.unclemanco.com
+  port: 904
+  type: ss
+  cipher: aes-128-gcm
+  password: a12cloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 255 SSS"
+  server: canvas.unclemanco.com
+  port: 824
+  type: ss
+  cipher: aes-128-gcm
+  password: ayu1245
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 256 SSS"
   server: canvas.unclemanco.com
-  port: 821
+  port: 9054
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
@@ -2563,10 +2536,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 257 SSS"
   server: canvas.unclemanco.com
-  port: 903
+  port: 9063
   type: ss
   cipher: aes-128-gcm
-  password: ay2l23ud1
+  password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2585,29 +2558,7 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 259 SSS"
   server: canvas.unclemanco.com
-  port: 910
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 260 SSS"
-  server: canvas.unclemanco.com
-  port: 906
-  type: ss
-  cipher: aes-128-gcm
-  password: ay2loud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 261 SSS"
-  server: canvas.unclemanco.com
-  port: 9060
+  port: 20012
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
@@ -2616,9 +2567,31 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 260 SSS"
+  server: canvas.unclemanco.com
+  port: 907
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucles1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 261 SSS"
+  server: canvas.unclemanco.com
+  port: 823
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 262 SSS"
   server: canvas.unclemanco.com
-  port: 9037
+  port: 9059
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
@@ -2629,40 +2602,7 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 263 SSS"
   server: canvas.unclemanco.com
-  port: 902
-  type: ss
-  cipher: aes-128-gcm
-  password: ayuc211
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 264 SSS"
-  server: canvas.unclemanco.com
-  port: 37863
-  type: ss
-  cipher: aes-128-gcm
-  password: dajkdkjda&dja*/?
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 265 SSS"
-  server: drift.unclemanco.com
-  port: 804
-  type: ss
-  cipher: aes-128-gcm
-  password: wedsa
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 266 SSS"
-  server: drift.unclemanco.com
-  port: 9048
+  port: 9062
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
@@ -2671,9 +2611,20 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 267 SSS"
-  server: drift.unclemanco.com
-  port: 9022
+- name: "\U0001F1FF\U0001F1E6 ZA 264 SSS"
+  server: canvas.unclemanco.com
+  port: 819
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 265 SSS"
+  server: canvas.unclemanco.com
+  port: 9021
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
@@ -2682,12 +2633,34 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 268 SSS"
-  server: drift.unclemanco.com
-  port: 916
+- name: "\U0001F1FF\U0001F1E6 ZA 266 SSS"
+  server: canvas.unclemanco.com
+  port: 914
   type: ss
   cipher: aes-128-gcm
-  password: fsfal2
+  password: QHPy2u
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 267 SSS"
+  server: canvas.unclemanco.com
+  port: 909
+  type: ss
+  cipher: aes-128-gcm
+  password: ayu1245
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 268 SSS"
+  server: canvas.unclemanco.com
+  port: 918
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2705,41 +2678,41 @@ proxies:
   obfs-param: download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 270 SSS"
-  server: drift.unclemanco.com
-  port: 926
+  server: canvas.unclemanco.com
+  port: 811
   type: ss
   cipher: aes-128-gcm
-  password: ayucloud1
+  password: ay2dsd1
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 271 SSS"
-  server: drift.unclemanco.com
-  port: 39004
+  server: canvas.unclemanco.com
+  port: 1313
   type: ss
   cipher: aes-128-gcm
-  password: ayds23sd1
+  password: fjlfjafl231303831
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 272 SSS"
-  server: drift.unclemanco.com
-  port: 9053
+  server: canvas.unclemanco.com
+  port: 901
   type: ss
   cipher: aes-128-gcm
-  password: ayucloud1
+  password: ay21d1
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 273 SSS"
-  server: drift.unclemanco.com
-  port: 8001
+  server: canvas.unclemanco.com
+  port: 9873
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
@@ -2749,30 +2722,30 @@ proxies:
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 274 SSS"
-  server: drift.unclemanco.com
-  port: 9052
+  server: canvas.unclemanco.com
+  port: 821
   type: ss
   cipher: aes-128-gcm
-  password: ayucloud1
+  password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 275 SSS"
-  server: drift.unclemanco.com
-  port: 818
+  server: canvas.unclemanco.com
+  port: 903
   type: ss
   cipher: aes-128-gcm
-  password: ayucloud1
+  password: ay2l23ud1
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 276 SSS"
-  server: drift.unclemanco.com
-  port: 813
+  server: canvas.unclemanco.com
+  port: 910
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
@@ -2782,19 +2755,19 @@ proxies:
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 277 SSS"
-  server: drift.unclemanco.com
-  port: 4321
+  server: canvas.unclemanco.com
+  port: 906
   type: ss
   cipher: aes-128-gcm
-  password: ay232sffssd1
+  password: ay2loud1
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 278 SSS"
-  server: drift.unclemanco.com
-  port: 820
+  server: canvas.unclemanco.com
+  port: 9060
   type: ss
   cipher: aes-128-gcm
   password: QHPy2u
@@ -2804,11 +2777,11 @@ proxies:
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 279 SSS"
-  server: drift.unclemanco.com
-  port: 809
+  server: canvas.unclemanco.com
+  port: 9037
   type: ss
   cipher: aes-128-gcm
-  password: ayucjrsll
+  password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2826,22 +2799,22 @@ proxies:
   obfs-param: download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 281 SSS"
-  server: drift.unclemanco.com
-  port: 911
+  server: canvas.unclemanco.com
+  port: 902
   type: ss
   cipher: aes-128-gcm
-  password: QHPy2u
+  password: ayuc211
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 282 SSS"
-  server: drift.unclemanco.com
-  port: 857
+  server: canvas.unclemanco.com
+  port: 37863
   type: ss
   cipher: aes-128-gcm
-  password: ayucloud1
+  password: dajkdkjda&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2849,10 +2822,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 283 SSS"
   server: drift.unclemanco.com
-  port: 2201
+  port: 804
   type: ss
   cipher: aes-128-gcm
-  password: dajsdkdkjda&dja*/?
+  password: wedsa
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2860,7 +2833,7 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 284 SSS"
   server: drift.unclemanco.com
-  port: 2789
+  port: 9048
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
@@ -2871,10 +2844,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 285 SSS"
   server: drift.unclemanco.com
-  port: 39201
+  port: 9022
   type: ss
   cipher: aes-128-gcm
-  password: dadk2jat*/?
+  password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2882,7 +2855,18 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 286 SSS"
   server: drift.unclemanco.com
-  port: 9038
+  port: 916
+  type: ss
+  cipher: aes-128-gcm
+  password: fsfal2
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 287 SSS"
+  server: drift.unclemanco.com
+  port: 926
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
@@ -2891,23 +2875,12 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 287 SSS"
-  server: drift.unclemanco.com
-  port: 19999
-  type: ss
-  cipher: aes-128-gcm
-  password: dajkdkjda&dja*/?
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 288 SSS"
   server: drift.unclemanco.com
-  port: 3033
+  port: 39004
   type: ss
   cipher: aes-128-gcm
-  password: ayugfsd
+  password: ayds23sd1
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2915,7 +2888,7 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 289 SSS"
   server: drift.unclemanco.com
-  port: 1549
+  port: 9053
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
@@ -2926,18 +2899,18 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 290 SSS"
   server: drift.unclemanco.com
-  port: 6041
+  port: 8001
   type: ss
   cipher: aes-128-gcm
-  password: ayds232sffssd1
+  password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FA\U0001F1F8 US 291 SSR"
-  server: ntemp08.boom.skin
-  port: 17000
+  server: ntemp07.boom.skin
+  port: 16000
   type: ssr
   cipher: aes-256-cfb
   password: Uk92CS
@@ -2948,10 +2921,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 292 SSS"
   server: drift.unclemanco.com
-  port: 44444
+  port: 9052
   type: ss
   cipher: aes-128-gcm
-  password: ayds232sffssd1
+  password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2959,10 +2932,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 293 SSS"
   server: drift.unclemanco.com
-  port: 38011
+  port: 818
   type: ss
   cipher: aes-128-gcm
-  password: dajkdr&dja*/?
+  password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2970,10 +2943,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 294 SSS"
   server: drift.unclemanco.com
-  port: 10058
+  port: 813
   type: ss
   cipher: aes-128-gcm
-  password: 2sa2/1a
+  password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2981,10 +2954,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 295 SSS"
   server: drift.unclemanco.com
-  port: 37865
+  port: 4321
   type: ss
   cipher: aes-128-gcm
-  password: dajkdkjdsa&dja*/?
+  password: ay232sffssd1
   plugin: obfs
   plugin-opts:
     mode: http
@@ -2992,10 +2965,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 296 SSS"
   server: drift.unclemanco.com
-  port: 39073
+  port: 820
   type: ss
   cipher: aes-128-gcm
-  password: dajkbgja*/?
+  password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
@@ -3003,10 +2976,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 297 SSS"
   server: drift.unclemanco.com
-  port: 38002
+  port: 809
   type: ss
   cipher: aes-128-gcm
-  password: dajkdkjdssa&dja*/?
+  password: ayucjrsll
   plugin: obfs
   plugin-opts:
     mode: http
@@ -3014,10 +2987,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 298 SSS"
   server: drift.unclemanco.com
-  port: 36203
+  port: 911
   type: ss
   cipher: aes-128-gcm
-  password: Vdssf.mj/2Zr
+  password: QHPy2u
   plugin: obfs
   plugin-opts:
     mode: http
@@ -3025,10 +2998,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 299 SSS"
   server: drift.unclemanco.com
-  port: 6559
+  port: 857
   type: ss
   cipher: aes-128-gcm
-  password: dajkdkjda&dja*/?
+  password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
@@ -3036,10 +3009,10 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 300 SSS"
   server: drift.unclemanco.com
-  port: 36452
+  port: 2201
   type: ss
   cipher: aes-128-gcm
-  password: 1mj21sr
+  password: dajsdkdkjda&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
@@ -3047,18 +3020,18 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 301 SSS"
   server: drift.unclemanco.com
-  port: 36243
+  port: 2789
   type: ss
   cipher: aes-128-gcm
-  password: Vdss1samj/2Zr
+  password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FA\U0001F1F8 US 302 SSR"
-  server: ntemp09.boom.skin
-  port: 18000
+  server: ntemp08.boom.skin
+  port: 17000
   type: ssr
   cipher: aes-256-cfb
   password: Uk92CS
@@ -3069,18 +3042,18 @@ proxies:
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 303 SSS"
   server: drift.unclemanco.com
-  port: 36454
+  port: 39201
   type: ss
   cipher: aes-128-gcm
-  password: 1mj21sr
+  password: dadk2jat*/?
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 304 SSS"
-  server: echo.unclemanco.com
-  port: 9047
+  server: drift.unclemanco.com
+  port: 9038
   type: ss
   cipher: aes-128-gcm
   password: ayucloud1
@@ -3090,88 +3063,88 @@ proxies:
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 305 SSS"
-  server: echo.unclemanco.com
-  port: 912
+  server: drift.unclemanco.com
+  port: 19999
   type: ss
   cipher: aes-128-gcm
-  password: QHPy2u
+  password: dajkdkjda&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 306 SSS"
-  server: echo.unclemanco.com
-  port: 840
+  server: drift.unclemanco.com
+  port: 3033
   type: ss
   cipher: aes-128-gcm
-  password: QHPy2u
+  password: ayugfsd
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 307 SSS"
-  server: echo.unclemanco.com
-  port: 9051
+  server: drift.unclemanco.com
+  port: 1549
   type: ss
   cipher: aes-128-gcm
-  password: QHPy2u
+  password: ayucloud1
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 308 SSS"
-  server: echo.unclemanco.com
-  port: 925
+  server: drift.unclemanco.com
+  port: 6041
   type: ss
   cipher: aes-128-gcm
-  password: ayucloud1
+  password: ayds232sffssd1
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 309 SSS"
-  server: echo.unclemanco.com
-  port: 812
+  server: drift.unclemanco.com
+  port: 44444
   type: ss
   cipher: aes-128-gcm
-  password: ayucloud1
+  password: ayds232sffssd1
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 310 SSS"
-  server: echo.unclemanco.com
-  port: 837
+  server: drift.unclemanco.com
+  port: 38011
   type: ss
   cipher: aes-128-gcm
-  password: ayucl12s1
+  password: dajkdr&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 311 SSS"
-  server: echo.unclemanco.com
-  port: 816
+  server: drift.unclemanco.com
+  port: 10058
   type: ss
   cipher: aes-128-gcm
-  password: QHPy2u
+  password: 2sa2/1a
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 312 SSS"
-  server: echo.unclemanco.com
-  port: 2688
+  server: drift.unclemanco.com
+  port: 37865
   type: ss
   cipher: aes-128-gcm
-  password: fs23l/
+  password: dajkdkjdsa&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
@@ -3189,74 +3162,30 @@ proxies:
   obfs-param: download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 314 SSS"
-  server: echo.unclemanco.com
-  port: 915
+  server: drift.unclemanco.com
+  port: 39073
   type: ss
   cipher: aes-128-gcm
-  password: ayucloud1
+  password: dajkbgja*/?
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 315 SSS"
-  server: echo.unclemanco.com
-  port: 2205
+  server: drift.unclemanco.com
+  port: 38002
   type: ss
   cipher: aes-128-gcm
-  password: dajkdkjda&dja*/?
+  password: dajkdkjdssa&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
 - name: "\U0001F1FF\U0001F1E6 ZA 316 SSS"
-  server: ember.unclemanco.com
-  port: 9020
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 317 SSS"
-  server: echo.unclemanco.com
-  port: 924
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 318 SSS"
-  server: echo.unclemanco.com
-  port: 6879
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 319 SSS"
-  server: echo.unclemanco.com
-  port: 9044
-  type: ss
-  cipher: aes-128-gcm
-  password: QHPy2u
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 320 SSS"
-  server: echo.unclemanco.com
-  port: 36201
+  server: drift.unclemanco.com
+  port: 36203
   type: ss
   cipher: aes-128-gcm
   password: Vdssf.mj/2Zr
@@ -3265,25 +3194,84 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 321 SSS"
-  server: echo.unclemanco.com
-  port: 10021
+- name: "\U0001F1FF\U0001F1E6 ZA 317 SSS"
+  server: drift.unclemanco.com
+  port: 6559
   type: ss
   cipher: aes-128-gcm
-  password: aa2x2sa2/1a
+  password: dajkdkjda&dja*/?
   plugin: obfs
   plugin-opts:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 322 SSS"
-  server: 9.9.9.9
-  port: 33335
+- name: "\U0001F1FF\U0001F1E6 ZA 318 SSS"
+  server: drift.unclemanco.com
+  port: 36452
   type: ss
-  cipher: chacha20-ietf-poly1305
-  password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1
+  cipher: aes-128-gcm
+  password: 1mj21sr
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 323 SSR"
+- name: "\U0001F1FF\U0001F1E6 ZA 319 SSS"
+  server: drift.unclemanco.com
+  port: 36243
+  type: ss
+  cipher: aes-128-gcm
+  password: Vdss1samj/2Zr
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 320 SSS"
+  server: drift.unclemanco.com
+  port: 36454
+  type: ss
+  cipher: aes-128-gcm
+  password: 1mj21sr
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 321 SSS"
+  server: echo.unclemanco.com
+  port: 9047
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 322 SSS"
+  server: echo.unclemanco.com
+  port: 912
+  type: ss
+  cipher: aes-128-gcm
+  password: QHPy2u
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 323 SSS"
+  server: echo.unclemanco.com
+  port: 840
+  type: ss
+  cipher: aes-128-gcm
+  password: QHPy2u
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 324 SSR"
   server: us2.edge.boom.skin
   port: 41000
   type: ssr
@@ -3294,7 +3282,117 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 324 SSR"
+- name: "\U0001F1FF\U0001F1E6 ZA 325 SSS"
+  server: echo.unclemanco.com
+  port: 9051
+  type: ss
+  cipher: aes-128-gcm
+  password: QHPy2u
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 326 SSS"
+  server: echo.unclemanco.com
+  port: 925
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 327 SSS"
+  server: echo.unclemanco.com
+  port: 812
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 328 SSS"
+  server: echo.unclemanco.com
+  port: 837
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucl12s1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 329 SSS"
+  server: echo.unclemanco.com
+  port: 816
+  type: ss
+  cipher: aes-128-gcm
+  password: QHPy2u
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 330 SSS"
+  server: echo.unclemanco.com
+  port: 2688
+  type: ss
+  cipher: aes-128-gcm
+  password: fs23l/
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 331 SSS"
+  server: echo.unclemanco.com
+  port: 915
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 332 SSS"
+  server: echo.unclemanco.com
+  port: 2205
+  type: ss
+  cipher: aes-128-gcm
+  password: dajkdkjda&dja*/?
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 333 SSS"
+  server: ember.unclemanco.com
+  port: 9020
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 334 SSS"
+  server: echo.unclemanco.com
+  port: 924
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 335 SSR"
   server: us3.edge.boom.skin
   port: 42001
   type: ssr
@@ -3305,18 +3403,58 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 325 SSR"
-  server: ntemp15.boom.skin
-  port: 19000
-  type: ssr
-  cipher: aes-256-cfb
-  password: Uk92CS
-  protocol: auth_aes128_sha1
-  obfs: http_simple
-  protocol-param: 1025036:boxQe1
-  obfs-param: download.windowsupdate.com
+- name: "\U0001F1FF\U0001F1E6 ZA 336 SSS"
+  server: echo.unclemanco.com
+  port: 6879
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 326 SSR"
+- name: "\U0001F1FF\U0001F1E6 ZA 337 SSS"
+  server: echo.unclemanco.com
+  port: 9044
+  type: ss
+  cipher: aes-128-gcm
+  password: QHPy2u
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 338 SSS"
+  server: echo.unclemanco.com
+  port: 36201
+  type: ss
+  cipher: aes-128-gcm
+  password: Vdssf.mj/2Zr
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 339 SSS"
+  server: echo.unclemanco.com
+  port: 10021
+  type: ss
+  cipher: aes-128-gcm
+  password: aa2x2sa2/1a
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 340 SSS"
+  server: 9.9.9.9
+  port: 33335
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: eef8b87c-90a6-4a6f-9930-b4d9b0153df1
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 341 SSR"
   server: us4.edge.boom.skin
   port: 43000
   type: ssr
@@ -3327,7 +3465,18 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 327 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 342 SSR"
+  server: ntemp15.boom.skin
+  port: 19000
+  type: ssr
+  cipher: aes-256-cfb
+  password: Uk92CS
+  protocol: auth_aes128_sha1
+  obfs: http_simple
+  protocol-param: 1025036:boxQe1
+  obfs-param: download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 343 SSR"
   server: nk1.boom.skin
   port: 11000
   type: ssr
@@ -3338,7 +3487,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 328 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 344 SSR"
   server: nk3.boom.skin
   port: 13000
   type: ssr
@@ -3349,7 +3498,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 329 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 345 SSR"
   server: nk4.boom.skin
   port: 14000
   type: ssr
@@ -3360,7 +3509,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 330 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 346 SSR"
   server: nk5.boom.skin
   port: 15000
   type: ssr
@@ -3371,7 +3520,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 331 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 347 SSR"
   server: nk6.boom.skin
   port: 16000
   type: ssr
@@ -3382,9 +3531,9 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 332 SSR"
-  server: n170.boom.skin
-  port: 33000
+- name: "\U0001F1FA\U0001F1F8 US 348 SSR"
+  server: nk7.boom.skin
+  port: 17000
   type: ssr
   cipher: aes-256-cfb
   password: Uk92CS
@@ -3393,7 +3542,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 333 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 349 SSR"
   server: nk8.boom.skin
   port: 18000
   type: ssr
@@ -3404,7 +3553,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 334 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 350 SSR"
   server: nk9.boom.skin
   port: 19000
   type: ssr
@@ -3415,29 +3564,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 335 SSR"
-  server: nka.boom.skin
-  port: 20000
-  type: ssr
-  cipher: aes-256-cfb
-  password: Uk92CS
-  protocol: auth_aes128_sha1
-  obfs: http_simple
-  protocol-param: 1025036:boxQe1
-  obfs-param: download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FA\U0001F1F8 US 336 SSR"
-  server: ntemp10.boom.skin
-  port: 20000
-  type: ssr
-  cipher: aes-256-cfb
-  password: Uk92CS
-  protocol: auth_aes128_sha1
-  obfs: http_simple
-  protocol-param: 1025036:boxQe1
-  obfs-param: download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FA\U0001F1F8 US 337 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 351 SSR"
   server: nkb.boom.skin
   port: 21000
   type: ssr
@@ -3448,7 +3575,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 338 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 352 SSR"
   server: nkc.boom.skin
   port: 22000
   type: ssr
@@ -3459,9 +3586,9 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 339 SSR"
-  server: nkd.boom.skin
-  port: 23000
+- name: "\U0001F1FA\U0001F1F8 US 353 SSR"
+  server: ntemp10.boom.skin
+  port: 20000
   type: ssr
   cipher: aes-256-cfb
   password: Uk92CS
@@ -3470,7 +3597,18 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 340 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 354 SSR"
+  server: nke.boom.skin
+  port: 24000
+  type: ssr
+  cipher: aes-256-cfb
+  password: Uk92CS
+  protocol: auth_aes128_sha1
+  obfs: http_simple
+  protocol-param: 1025036:boxQe1
+  obfs-param: download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 355 SSR"
   server: jp1.boom.skin
   port: 30000
   type: ssr
@@ -3481,7 +3619,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 341 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 356 SSR"
   server: jp2.boom.skin
   port: 31000
   type: ssr
@@ -3492,7 +3630,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 342 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 357 SSR"
   server: jp3.boom.skin
   port: 32000
   type: ssr
@@ -3503,7 +3641,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 343 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 358 SSR"
   server: jp4.boom.skin
   port: 33000
   type: ssr
@@ -3514,7 +3652,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 344 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 359 SSR"
   server: jp5.boom.skin
   port: 34000
   type: ssr
@@ -3525,7 +3663,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 345 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 360 SSR"
   server: nn8.boom.skin
   port: 47000
   type: ssr
@@ -3536,7 +3674,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 346 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 361 SSR"
   server: nn9.boom.skin
   port: 48000
   type: ssr
@@ -3547,40 +3685,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 347 SSR"
-  server: ntemp16.boom.skin
-  port: 21000
-  type: ssr
-  cipher: aes-256-cfb
-  password: Uk92CS
-  protocol: auth_aes128_sha1
-  obfs: http_simple
-  protocol-param: 1025036:boxQe1
-  obfs-param: download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FA\U0001F1F8 US 348 SSR"
-  server: nna.boom.skin
-  port: 49000
-  type: ssr
-  cipher: aes-256-cfb
-  password: Uk92CS
-  protocol: auth_aes128_sha1
-  obfs: http_simple
-  protocol-param: 1025036:boxQe1
-  obfs-param: download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FA\U0001F1F8 US 349 SSR"
-  server: nn11.boom.skin
-  port: 50000
-  type: ssr
-  cipher: aes-256-cfb
-  password: Uk92CS
-  protocol: auth_aes128_sha1
-  obfs: http_simple
-  protocol-param: 1025036:boxQe1
-  obfs-param: download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FA\U0001F1F8 US 350 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 362 SSR"
   server: opt1.boom.skin
   port: 11000
   type: ssr
@@ -3591,7 +3696,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 351 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 363 SSR"
   server: opt20.boom.skin
   port: 30000
   type: ssr
@@ -3602,7 +3707,18 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 352 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 364 SSR"
+  server: ntemp16.boom.skin
+  port: 21000
+  type: ssr
+  cipher: aes-256-cfb
+  password: Uk92CS
+  protocol: auth_aes128_sha1
+  obfs: http_simple
+  protocol-param: 1025036:boxQe1
+  obfs-param: download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 365 SSR"
   server: opt2.boom.skin
   port: 12000
   type: ssr
@@ -3613,7 +3729,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 353 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 366 SSR"
   server: opt3.boom.skin
   port: 13000
   type: ssr
@@ -3624,7 +3740,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 354 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 367 SSR"
   server: opt4.boom.skin
   port: 14000
   type: ssr
@@ -3635,7 +3751,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 355 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 368 SSR"
   server: opt5.boom.skin
   port: 15000
   type: ssr
@@ -3646,7 +3762,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 356 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 369 SSR"
   server: opt16.boom.skin
   port: 26000
   type: ssr
@@ -3657,7 +3773,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 357 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 370 SSR"
   server: opt17.boom.skin
   port: 27000
   type: ssr
@@ -3668,18 +3784,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 358 SSR"
-  server: ntemp17.boom.skin
-  port: 22000
-  type: ssr
-  cipher: aes-256-cfb
-  password: Uk92CS
-  protocol: auth_aes128_sha1
-  obfs: http_simple
-  protocol-param: 1025036:boxQe1
-  obfs-param: download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FA\U0001F1F8 US 359 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 371 SSR"
   server: opt18.boom.skin
   port: 28000
   type: ssr
@@ -3690,7 +3795,7 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 360 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 372 SSR"
   server: opt19.boom.skin
   port: 29000
   type: ssr
@@ -3701,14 +3806,14 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 361 SSS"
+- name: "\U0001F1FA\U0001F1F8 US 373 SSS"
   server: www.google.com
   port: 443
   type: ss
   cipher: aes-128-gcm
   password: adfd1985-a15f-4a05-915d-09fa4cc662ef
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 362 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 374 VMS"
   server: 11.4.5.14
   port: 19198
   type: vmess
@@ -3718,9 +3823,20 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1E9\U0001F1EA DE 363 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 375 SSR"
+  server: ntemp18.boom.skin
+  port: 23000
+  type: ssr
+  cipher: aes-256-cfb
+  password: Uk92CS
+  protocol: auth_aes128_sha1
+  obfs: http_simple
+  protocol-param: 1025036:boxQe1
+  obfs-param: download.windowsupdate.com
+  udp: true
+- name: "\U0001F1F0\U0001F1F7 KR 376 VMS"
   server: js1.76po.com
-  port: 13526
+  port: 44639
   type: vmess
   uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb
   alterId: 0
@@ -3728,7 +3844,17 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 364 VMS"
+- name: "\U0001F1F0\U0001F1F7 KR 377 VMS"
+  server: js1.76po.com
+  port: 51594
+  type: vmess
+  uuid: 7c1ec8cd-4f39-4175-8026-f6050c1f14fb
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 378 VMS"
   server: 172.64.195.161
   port: 443
   type: vmess
@@ -3743,7 +3869,7 @@ proxies:
     headers:
       Host: bla.369777.xyz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 365 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 379 VMS"
   server: 172.64.34.108
   port: 443
   type: vmess
@@ -3758,7 +3884,7 @@ proxies:
     headers:
       Host: shc.997755.xyz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 366 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 380 VMS"
   server: 172.67.75.237
   port: 443
   type: vmess
@@ -3773,14 +3899,14 @@ proxies:
     headers:
       Host: lgb.369777.xyz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 367 SSS"
+- name: "\U0001F1FA\U0001F1F8 US 381 SSS"
   server: Dont.Connect.Me
   port: 65535
   type: ss
   cipher: chacha20-ietf-poly1305
   password: b1542527-1861-4250-9b14-b0737e640fc0
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 368 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 382 VMS"
   server: welfare.kk-proxy.pro
   port: 443
   type: vmess
@@ -3795,7 +3921,31 @@ proxies:
     headers:
       Host: sgfree01.mikuproxy.pro
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 369 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 383 TJN"
+  server: shcm002.theyydsnode.top
+  port: 51031
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: sg01.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 384 TJN"
+  server: gdct001.theyydsnode.top
+  port: 58464
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: sg03.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F3 UN 385 TJN"
+  server: gdct001.theyydsnode.top
+  port: 25974
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: hk05.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 386 SSR"
   server: ntemp19.boom.skin
   port: 24000
   type: ssr
@@ -3806,39 +3956,15 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 370 TJN"
-  server: shcm002.theyydsnode.top
-  port: 51031
-  type: trojan
-  password: 59e5183a-5432-4567-9258-b58e83bb77ef
-  sni: sg01.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 371 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 387 TJN"
   server: gdct003.theyydsnode.top
-  port: 58464
-  type: trojan
-  password: 59e5183a-5432-4567-9258-b58e83bb77ef
-  sni: sg03.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 372 TJN"
-  server: shcm002.theyydsnode.top
-  port: 58464
-  type: trojan
-  password: 59e5183a-5432-4567-9258-b58e83bb77ef
-  sni: sg03.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: "\U0001F1FA\U0001F1F8 US 373 TJN"
-  server: gdct001.theyydsnode.top
   port: 25974
   type: trojan
   password: 59e5183a-5432-4567-9258-b58e83bb77ef
   sni: hk05.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 374 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 388 TJN"
   server: gdct002.theyydsnode.top
   port: 35257
   type: trojan
@@ -3846,23 +3972,15 @@ proxies:
   sni: hk03.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 375 TJN"
-  server: shcm002.theyydsnode.top
-  port: 26023
+- name: "\U0001F1FA\U0001F1F8 US 389 TJN"
+  server: gdct003.theyydsnode.top
+  port: 15485
   type: trojan
   password: 59e5183a-5432-4567-9258-b58e83bb77ef
-  sni: hk02.ckcloud.info
+  sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 376 TJN"
-  server: gdct001.theyydsnode.top
-  port: 26023
-  type: trojan
-  password: 59e5183a-5432-4567-9258-b58e83bb77ef
-  sni: hk02.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 377 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 390 TJN"
   server: shcm002.theyydsnode.top
   port: 15485
   type: trojan
@@ -3870,7 +3988,15 @@ proxies:
   sni: hk04.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 378 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 391 TJN"
+  server: gdct001.theyydsnode.top
+  port: 15485
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: hk04.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F3 UN 392 TJN"
   server: gdct003.theyydsnode.top
   port: 53279
   type: trojan
@@ -3878,15 +4004,39 @@ proxies:
   sni: de01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 379 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 393 TJN"
   server: shcm002.theyydsnode.top
+  port: 53279
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: de01.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F3 UN 394 TJN"
+  server: gdct001.theyydsnode.top
   port: 26094
   type: trojan
   password: 59e5183a-5432-4567-9258-b58e83bb77ef
   sni: id01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 380 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 395 TJN"
+  server: gdct003.theyydsnode.top
+  port: 26094
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: id01.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 396 TJN"
+  server: gdct001.theyydsnode.top
+  port: 42840
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: uk01.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 397 SSR"
   server: ntemp20.boom.skin
   port: 25000
   type: ssr
@@ -3897,23 +4047,15 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 381 TJN"
-  server: gdct001.theyydsnode.top
-  port: 26094
-  type: trojan
-  password: 59e5183a-5432-4567-9258-b58e83bb77ef
-  sni: id01.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: "\U0001F1FA\U0001F1F8 US 382 TJN"
-  server: shcm002.theyydsnode.top
+- name: "\U0001F1FA\U0001F1F8 US 398 TJN"
+  server: gdct003.theyydsnode.top
   port: 42840
   type: trojan
   password: 59e5183a-5432-4567-9258-b58e83bb77ef
   sni: uk01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 383 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 399 TJN"
   server: shcm002.theyydsnode.top
   port: 10327
   type: trojan
@@ -3921,15 +4063,39 @@ proxies:
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 384 TJN"
-  server: gdct003.theyydsnode.top
+- name: "\U0001F1FA\U0001F1F8 US 400 TJN"
+  server: gdct001.theyydsnode.top
   port: 10327
   type: trojan
   password: 59e5183a-5432-4567-9258-b58e83bb77ef
   sni: jp01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 385 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 401 TJN"
+  server: gdct003.theyydsnode.top
+  port: 16483
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: jp03.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 402 TJN"
+  server: shcm002.theyydsnode.top
+  port: 64850
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: tw01.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 403 TJN"
+  server: shcm002.theyydsnode.top
+  port: 47557
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: tw02.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F3 UN 404 TJN"
   server: gdct001.theyydsnode.top
   port: 47557
   type: trojan
@@ -3937,50 +4103,31 @@ proxies:
   sni: tw02.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 386 TJN"
-  server: gdct001.theyydsnode.top
+- name: "\U0001F1FA\U0001F1F8 US 405 TJN"
+  server: shcm002.theyydsnode.top
   port: 60293
   type: trojan
   password: 59e5183a-5432-4567-9258-b58e83bb77ef
   sni: tur01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 387 TJN"
-  server: gdct001.theyydsnode.top
+- name: "\U0001F1FA\U0001F1F8 US 406 TJN"
+  server: gdct003.theyydsnode.top
   port: 16343
   type: trojan
   password: 59e5183a-5432-4567-9258-b58e83bb77ef
   sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 388 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 407 TJN"
   server: shcm002.theyydsnode.top
-  port: 48560
+  port: 16343
   type: trojan
   password: 59e5183a-5432-4567-9258-b58e83bb77ef
-  sni: us03.ckcloud.info
+  sni: vn01.ckcloud.info
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 389 TJN"
-  server: gdct001.theyydsnode.top
-  port: 26681
-  type: trojan
-  password: 59e5183a-5432-4567-9258-b58e83bb77ef
-  sni: us04.ckcloud.info
-  skip-cert-verify: true
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 390 SSS"
-  server: drift.unclemanco.com
-  port: 15558
-  type: ss
-  cipher: aes-128-gcm
-  password: 1m23sddsc4532r
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FA\U0001F1F8 US 391 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 408 SSR"
   server: n62.boom.skin
   port: 20000
   type: ssr
@@ -3991,7 +4138,58 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 392 SSS"
+- name: "\U0001F1FA\U0001F1F8 US 409 TJN"
+  server: gdct003.theyydsnode.top
+  port: 48560
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: us03.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 410 TJN"
+  server: shcm002.theyydsnode.top
+  port: 48560
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: us03.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 411 TJN"
+  server: gdct003.theyydsnode.top
+  port: 10658
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: us2.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 412 TJN"
+  server: shcm002.theyydsnode.top
+  port: 26681
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: us04.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FA\U0001F1F8 US 413 TJN"
+  server: gdct003.theyydsnode.top
+  port: 26681
+  type: trojan
+  password: 59e5183a-5432-4567-9258-b58e83bb77ef
+  sni: us04.ckcloud.info
+  skip-cert-verify: true
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 414 SSS"
+  server: drift.unclemanco.com
+  port: 15558
+  type: ss
+  cipher: aes-128-gcm
+  password: 1m23sddsc4532r
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 415 SSS"
   server: canvas.unclemanco.com
   port: 803
   type: ss
@@ -4002,7 +4200,7 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 393 SSS"
+- name: "\U0001F1FF\U0001F1E6 ZA 416 SSS"
   server: canvas.unclemanco.com
   port: 806
   type: ss
@@ -4013,7 +4211,7 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 394 SSS"
+- name: "\U0001F1FF\U0001F1E6 ZA 417 SSS"
   server: canvas.unclemanco.com
   port: 913
   type: ss
@@ -4024,7 +4222,7 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 395 SSS"
+- name: "\U0001F1FF\U0001F1E6 ZA 418 SSS"
   server: canvas.unclemanco.com
   port: 817
   type: ss
@@ -4035,73 +4233,7 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 396 SSS"
-  server: canvas.unclemanco.com
-  port: 9030
-  type: ss
-  cipher: aes-128-gcm
-  password: QHPy2u
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 397 SSS"
-  server: canvas.unclemanco.com
-  port: 920
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 398 SSS"
-  server: canvas.unclemanco.com
-  port: 9035
-  type: ss
-  cipher: aes-128-gcm
-  password: QHPy2u
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 399 SSS"
-  server: canvas.unclemanco.com
-  port: 917
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 400 SSS"
-  server: canvas.unclemanco.com
-  port: 9019
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 401 SSS"
-  server: canvas.unclemanco.com
-  port: 9001
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucew2
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FA\U0001F1F8 US 402 SSR"
+- name: "\U0001F1FA\U0001F1F8 US 419 SSR"
   server: n06.boom.skin
   port: 21000
   type: ssr
@@ -4112,7 +4244,73 @@ proxies:
   protocol-param: 1025036:boxQe1
   obfs-param: download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 403 SSS"
+- name: "\U0001F1FF\U0001F1E6 ZA 420 SSS"
+  server: canvas.unclemanco.com
+  port: 9030
+  type: ss
+  cipher: aes-128-gcm
+  password: QHPy2u
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 421 SSS"
+  server: canvas.unclemanco.com
+  port: 920
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 422 SSS"
+  server: canvas.unclemanco.com
+  port: 9035
+  type: ss
+  cipher: aes-128-gcm
+  password: QHPy2u
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 423 SSS"
+  server: canvas.unclemanco.com
+  port: 917
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 424 SSS"
+  server: canvas.unclemanco.com
+  port: 9019
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucloud1
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 425 SSS"
+  server: canvas.unclemanco.com
+  port: 9001
+  type: ss
+  cipher: aes-128-gcm
+  password: ayucew2
+  plugin: obfs
+  plugin-opts:
+    mode: http
+    host: 69912111361.download.windowsupdate.com
+  udp: true
+- name: "\U0001F1FF\U0001F1E6 ZA 426 SSS"
   server: canvas.unclemanco.com
   port: 807
   type: ss
@@ -4123,7 +4321,7 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 404 SSS"
+- name: "\U0001F1FF\U0001F1E6 ZA 427 SSS"
   server: canvas.unclemanco.com
   port: 810
   type: ss
@@ -4134,7 +4332,7 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 405 SSS"
+- name: "\U0001F1FF\U0001F1E6 ZA 428 SSS"
   server: canvas.unclemanco.com
   port: 921
   type: ss
@@ -4145,7 +4343,7 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 406 SSS"
+- name: "\U0001F1FF\U0001F1E6 ZA 429 SSS"
   server: canvas.unclemanco.com
   port: 919
   type: ss
@@ -4156,73 +4354,7 @@ proxies:
     mode: http
     host: 69912111361.download.windowsupdate.com
   udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 407 SSS"
-  server: canvas.unclemanco.com
-  port: 825
-  type: ss
-  cipher: aes-128-gcm
-  password: QHPy2u
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 408 SSS"
-  server: canvas.unclemanco.com
-  port: 834
-  type: ss
-  cipher: aes-128-gcm
-  password: QHPy2u
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 409 SSS"
-  server: canvas.unclemanco.com
-  port: 908
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 410 SSS"
-  server: canvas.unclemanco.com
-  port: 9040
-  type: ss
-  cipher: aes-128-gcm
-  password: QHPy2u
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 411 SSS"
-  server: canvas.unclemanco.com
-  port: 835
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FF\U0001F1E6 ZA 412 SSS"
-  server: canvas.unclemanco.com
-  port: 905
-  type: ss
-  cipher: aes-128-gcm
-  password: ayucloud1
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 69912111361.download.windowsupdate.com
-  udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 413 SSR"
+- name: "\U0001F1FA\U0001F1F3 UN 430 SSR"
   server: 'NULL'
   port: 11708
   type: ssr
@@ -4250,8 +4382,8 @@ proxy-groups:
   - "\U0001F1F2\U0001F1F4 MO 12 TJN"
   - "\U0001F1F9\U0001F1FC TW 13 TJN"
   - "\U0001F1F9\U0001F1FC TW 14 TJN"
-  - "\U0001F1E9\U0001F1EA DE 15 VMS"
-  - "\U0001F1E9\U0001F1EA DE 16 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 15 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 16 VMS"
   - "\U0001F1E8\U0001F1F3 CN 17 SSR"
   - "\U0001F1E8\U0001F1F3 CN 18 SSR"
   - "\U0001F1E8\U0001F1F3 CN 19 TJN"
@@ -4407,23 +4539,23 @@ proxy-groups:
   - "\U0001F1F9\U0001F1FC TW 169 VMS"
   - "\U0001F1F9\U0001F1FC TW 170 VMS"
   - "\U0001F1FA\U0001F1F8 US 171 SSR"
-  - "\U0001F1FA\U0001F1F8 US 172 SSR"
-  - "\U0001F1FA\U0001F1F8 US 173 SSR"
+  - "\U0001F1F0\U0001F1F7 KR 172 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 173 VMS"
   - "\U0001F1FA\U0001F1F8 US 174 SSR"
   - "\U0001F1FA\U0001F1F8 US 175 SSR"
   - "\U0001F1FA\U0001F1F8 US 176 SSR"
-  - "\U0001F1E9\U0001F1EA DE 177 VMS"
-  - "\U0001F1E9\U0001F1EA DE 178 VMS"
-  - "\U0001F1E9\U0001F1EA DE 179 VMS"
-  - "\U0001F1ED\U0001F1F0 HK 180 VMS"
-  - "\U0001F1ED\U0001F1F0 HK 181 SSS"
-  - "\U0001F1ED\U0001F1F0 HK 182 SSS"
-  - "\U0001F1ED\U0001F1F0 HK 183 SSS"
+  - "\U0001F1FA\U0001F1F8 US 177 SSR"
+  - "\U0001F1FA\U0001F1F8 US 178 SSR"
+  - "\U0001F1FA\U0001F1F8 US 179 SSR"
+  - "\U0001F1FA\U0001F1F8 US 180 SSR"
+  - "\U0001F1FA\U0001F1F8 US 181 SSR"
+  - "\U0001F1ED\U0001F1F0 HK 182 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 183 VMS"
   - "\U0001F1ED\U0001F1F0 HK 184 SSS"
   - "\U0001F1ED\U0001F1F0 HK 185 SSS"
-  - "\U0001F1EF\U0001F1F5 JP 186 SSS"
-  - "\U0001F1EF\U0001F1F5 JP 187 SSS"
-  - "\U0001F1EF\U0001F1F5 JP 188 SSS"
+  - "\U0001F1ED\U0001F1F0 HK 186 SSS"
+  - "\U0001F1ED\U0001F1F0 HK 187 SSS"
+  - "\U0001F1ED\U0001F1F0 HK 188 SSS"
   - "\U0001F1EF\U0001F1F5 JP 189 SSS"
   - "\U0001F1EF\U0001F1F5 JP 190 SSS"
   - "\U0001F1EF\U0001F1F5 JP 191 SSS"
@@ -4468,20 +4600,20 @@ proxy-groups:
   - "\U0001F1EF\U0001F1F5 JP 230 SSS"
   - "\U0001F1EF\U0001F1F5 JP 231 SSS"
   - "\U0001F1EF\U0001F1F5 JP 232 SSS"
-  - "\U0001F1F8\U0001F1EC SG 233 VMS"
-  - "\U0001F1F8\U0001F1EC SG 234 VMS"
-  - "\U0001F1E9\U0001F1EA DE 235 VMS"
-  - "\U0001F1FA\U0001F1F8 US 236 SSR"
-  - "\U0001F1FF\U0001F1E6 ZA 237 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 238 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 239 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 240 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 241 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 242 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 243 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 244 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 245 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 246 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 233 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 234 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 235 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 236 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 237 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 238 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 239 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 240 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 241 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 242 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 243 SSS"
+  - "\U0001F1F8\U0001F1EC SG 244 VMS"
+  - "\U0001F1F8\U0001F1EC SG 245 VMS"
+  - "\U0001F1EE\U0001F1F9 IT 246 VMS"
   - "\U0001F1FA\U0001F1F8 US 247 SSR"
   - "\U0001F1FF\U0001F1E6 ZA 248 SSS"
   - "\U0001F1FF\U0001F1E6 ZA 249 SSS"
@@ -4557,25 +4689,25 @@ proxy-groups:
   - "\U0001F1FF\U0001F1E6 ZA 319 SSS"
   - "\U0001F1FF\U0001F1E6 ZA 320 SSS"
   - "\U0001F1FF\U0001F1E6 ZA 321 SSS"
-  - "\U0001F1FA\U0001F1F8 US 322 SSS"
-  - "\U0001F1FA\U0001F1F8 US 323 SSR"
+  - "\U0001F1FF\U0001F1E6 ZA 322 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 323 SSS"
   - "\U0001F1FA\U0001F1F8 US 324 SSR"
-  - "\U0001F1FA\U0001F1F8 US 325 SSR"
-  - "\U0001F1FA\U0001F1F8 US 326 SSR"
-  - "\U0001F1FA\U0001F1F8 US 327 SSR"
-  - "\U0001F1FA\U0001F1F8 US 328 SSR"
-  - "\U0001F1FA\U0001F1F8 US 329 SSR"
-  - "\U0001F1FA\U0001F1F8 US 330 SSR"
-  - "\U0001F1FA\U0001F1F8 US 331 SSR"
-  - "\U0001F1FA\U0001F1F8 US 332 SSR"
-  - "\U0001F1FA\U0001F1F8 US 333 SSR"
-  - "\U0001F1FA\U0001F1F8 US 334 SSR"
+  - "\U0001F1FF\U0001F1E6 ZA 325 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 326 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 327 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 328 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 329 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 330 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 331 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 332 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 333 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 334 SSS"
   - "\U0001F1FA\U0001F1F8 US 335 SSR"
-  - "\U0001F1FA\U0001F1F8 US 336 SSR"
-  - "\U0001F1FA\U0001F1F8 US 337 SSR"
-  - "\U0001F1FA\U0001F1F8 US 338 SSR"
-  - "\U0001F1FA\U0001F1F8 US 339 SSR"
-  - "\U0001F1FA\U0001F1F8 US 340 SSR"
+  - "\U0001F1FF\U0001F1E6 ZA 336 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 337 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 338 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 339 SSS"
+  - "\U0001F1FA\U0001F1F8 US 340 SSS"
   - "\U0001F1FA\U0001F1F8 US 341 SSR"
   - "\U0001F1FA\U0001F1F8 US 342 SSR"
   - "\U0001F1FA\U0001F1F8 US 343 SSR"
@@ -4596,59 +4728,76 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 358 SSR"
   - "\U0001F1FA\U0001F1F8 US 359 SSR"
   - "\U0001F1FA\U0001F1F8 US 360 SSR"
-  - "\U0001F1FA\U0001F1F8 US 361 SSS"
-  - "\U0001F1FA\U0001F1F8 US 362 VMS"
-  - "\U0001F1E9\U0001F1EA DE 363 VMS"
-  - "\U0001F1FA\U0001F1F8 US 364 VMS"
-  - "\U0001F1FA\U0001F1F8 US 365 VMS"
-  - "\U0001F1FA\U0001F1F8 US 366 VMS"
-  - "\U0001F1FA\U0001F1F8 US 367 SSS"
-  - "\U0001F1FA\U0001F1F8 US 368 VMS"
+  - "\U0001F1FA\U0001F1F8 US 361 SSR"
+  - "\U0001F1FA\U0001F1F8 US 362 SSR"
+  - "\U0001F1FA\U0001F1F8 US 363 SSR"
+  - "\U0001F1FA\U0001F1F8 US 364 SSR"
+  - "\U0001F1FA\U0001F1F8 US 365 SSR"
+  - "\U0001F1FA\U0001F1F8 US 366 SSR"
+  - "\U0001F1FA\U0001F1F8 US 367 SSR"
+  - "\U0001F1FA\U0001F1F8 US 368 SSR"
   - "\U0001F1FA\U0001F1F8 US 369 SSR"
-  - "\U0001F1FA\U0001F1F3 UN 370 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 371 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 372 TJN"
-  - "\U0001F1FA\U0001F1F8 US 373 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 374 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 375 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 376 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 377 TJN"
-  - "\U0001F1FA\U0001F1F8 US 378 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 379 TJN"
-  - "\U0001F1FA\U0001F1F8 US 380 SSR"
-  - "\U0001F1FA\U0001F1F8 US 381 TJN"
-  - "\U0001F1FA\U0001F1F8 US 382 TJN"
+  - "\U0001F1FA\U0001F1F8 US 370 SSR"
+  - "\U0001F1FA\U0001F1F8 US 371 SSR"
+  - "\U0001F1FA\U0001F1F8 US 372 SSR"
+  - "\U0001F1FA\U0001F1F8 US 373 SSS"
+  - "\U0001F1FA\U0001F1F8 US 374 VMS"
+  - "\U0001F1FA\U0001F1F8 US 375 SSR"
+  - "\U0001F1F0\U0001F1F7 KR 376 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 377 VMS"
+  - "\U0001F1FA\U0001F1F8 US 378 VMS"
+  - "\U0001F1FA\U0001F1F8 US 379 VMS"
+  - "\U0001F1FA\U0001F1F8 US 380 VMS"
+  - "\U0001F1FA\U0001F1F8 US 381 SSS"
+  - "\U0001F1FA\U0001F1F8 US 382 VMS"
   - "\U0001F1FA\U0001F1F8 US 383 TJN"
   - "\U0001F1FA\U0001F1F8 US 384 TJN"
   - "\U0001F1FA\U0001F1F3 UN 385 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 386 TJN"
+  - "\U0001F1FA\U0001F1F8 US 386 SSR"
   - "\U0001F1FA\U0001F1F3 UN 387 TJN"
   - "\U0001F1FA\U0001F1F8 US 388 TJN"
   - "\U0001F1FA\U0001F1F8 US 389 TJN"
-  - "\U0001F1FF\U0001F1E6 ZA 390 SSS"
-  - "\U0001F1FA\U0001F1F8 US 391 SSR"
-  - "\U0001F1FF\U0001F1E6 ZA 392 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 393 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 394 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 395 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 396 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 397 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 398 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 399 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 400 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 401 SSS"
-  - "\U0001F1FA\U0001F1F8 US 402 SSR"
-  - "\U0001F1FF\U0001F1E6 ZA 403 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 404 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 405 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 406 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 407 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 408 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 409 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 410 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 411 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 412 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 413 SSR"
+  - "\U0001F1FA\U0001F1F8 US 390 TJN"
+  - "\U0001F1FA\U0001F1F8 US 391 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 392 TJN"
+  - "\U0001F1FA\U0001F1F8 US 393 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 394 TJN"
+  - "\U0001F1FA\U0001F1F8 US 395 TJN"
+  - "\U0001F1FA\U0001F1F8 US 396 TJN"
+  - "\U0001F1FA\U0001F1F8 US 397 SSR"
+  - "\U0001F1FA\U0001F1F8 US 398 TJN"
+  - "\U0001F1FA\U0001F1F8 US 399 TJN"
+  - "\U0001F1FA\U0001F1F8 US 400 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 401 TJN"
+  - "\U0001F1FA\U0001F1F8 US 402 TJN"
+  - "\U0001F1FA\U0001F1F8 US 403 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 404 TJN"
+  - "\U0001F1FA\U0001F1F8 US 405 TJN"
+  - "\U0001F1FA\U0001F1F8 US 406 TJN"
+  - "\U0001F1FA\U0001F1F8 US 407 TJN"
+  - "\U0001F1FA\U0001F1F8 US 408 SSR"
+  - "\U0001F1FA\U0001F1F8 US 409 TJN"
+  - "\U0001F1FA\U0001F1F8 US 410 TJN"
+  - "\U0001F1FA\U0001F1F8 US 411 TJN"
+  - "\U0001F1FA\U0001F1F8 US 412 TJN"
+  - "\U0001F1FA\U0001F1F8 US 413 TJN"
+  - "\U0001F1FF\U0001F1E6 ZA 414 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 415 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 416 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 417 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 418 SSS"
+  - "\U0001F1FA\U0001F1F8 US 419 SSR"
+  - "\U0001F1FF\U0001F1E6 ZA 420 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 421 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 422 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 423 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 424 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 425 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 426 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 427 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 428 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 429 SSS"
+  - "\U0001F1FA\U0001F1F3 UN 430 SSR"
   url: https://www.google.com/favicon.ico
   interval: 300
 - name: "\U0001F310 Proxy"
@@ -4669,8 +4818,8 @@ proxy-groups:
   - "\U0001F1F2\U0001F1F4 MO 12 TJN"
   - "\U0001F1F9\U0001F1FC TW 13 TJN"
   - "\U0001F1F9\U0001F1FC TW 14 TJN"
-  - "\U0001F1E9\U0001F1EA DE 15 VMS"
-  - "\U0001F1E9\U0001F1EA DE 16 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 15 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 16 VMS"
   - "\U0001F1E8\U0001F1F3 CN 17 SSR"
   - "\U0001F1E8\U0001F1F3 CN 18 SSR"
   - "\U0001F1E8\U0001F1F3 CN 19 TJN"
@@ -4826,23 +4975,23 @@ proxy-groups:
   - "\U0001F1F9\U0001F1FC TW 169 VMS"
   - "\U0001F1F9\U0001F1FC TW 170 VMS"
   - "\U0001F1FA\U0001F1F8 US 171 SSR"
-  - "\U0001F1FA\U0001F1F8 US 172 SSR"
-  - "\U0001F1FA\U0001F1F8 US 173 SSR"
+  - "\U0001F1F0\U0001F1F7 KR 172 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 173 VMS"
   - "\U0001F1FA\U0001F1F8 US 174 SSR"
   - "\U0001F1FA\U0001F1F8 US 175 SSR"
   - "\U0001F1FA\U0001F1F8 US 176 SSR"
-  - "\U0001F1E9\U0001F1EA DE 177 VMS"
-  - "\U0001F1E9\U0001F1EA DE 178 VMS"
-  - "\U0001F1E9\U0001F1EA DE 179 VMS"
-  - "\U0001F1ED\U0001F1F0 HK 180 VMS"
-  - "\U0001F1ED\U0001F1F0 HK 181 SSS"
-  - "\U0001F1ED\U0001F1F0 HK 182 SSS"
-  - "\U0001F1ED\U0001F1F0 HK 183 SSS"
+  - "\U0001F1FA\U0001F1F8 US 177 SSR"
+  - "\U0001F1FA\U0001F1F8 US 178 SSR"
+  - "\U0001F1FA\U0001F1F8 US 179 SSR"
+  - "\U0001F1FA\U0001F1F8 US 180 SSR"
+  - "\U0001F1FA\U0001F1F8 US 181 SSR"
+  - "\U0001F1ED\U0001F1F0 HK 182 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 183 VMS"
   - "\U0001F1ED\U0001F1F0 HK 184 SSS"
   - "\U0001F1ED\U0001F1F0 HK 185 SSS"
-  - "\U0001F1EF\U0001F1F5 JP 186 SSS"
-  - "\U0001F1EF\U0001F1F5 JP 187 SSS"
-  - "\U0001F1EF\U0001F1F5 JP 188 SSS"
+  - "\U0001F1ED\U0001F1F0 HK 186 SSS"
+  - "\U0001F1ED\U0001F1F0 HK 187 SSS"
+  - "\U0001F1ED\U0001F1F0 HK 188 SSS"
   - "\U0001F1EF\U0001F1F5 JP 189 SSS"
   - "\U0001F1EF\U0001F1F5 JP 190 SSS"
   - "\U0001F1EF\U0001F1F5 JP 191 SSS"
@@ -4887,20 +5036,20 @@ proxy-groups:
   - "\U0001F1EF\U0001F1F5 JP 230 SSS"
   - "\U0001F1EF\U0001F1F5 JP 231 SSS"
   - "\U0001F1EF\U0001F1F5 JP 232 SSS"
-  - "\U0001F1F8\U0001F1EC SG 233 VMS"
-  - "\U0001F1F8\U0001F1EC SG 234 VMS"
-  - "\U0001F1E9\U0001F1EA DE 235 VMS"
-  - "\U0001F1FA\U0001F1F8 US 236 SSR"
-  - "\U0001F1FF\U0001F1E6 ZA 237 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 238 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 239 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 240 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 241 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 242 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 243 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 244 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 245 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 246 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 233 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 234 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 235 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 236 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 237 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 238 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 239 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 240 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 241 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 242 SSS"
+  - "\U0001F1EF\U0001F1F5 JP 243 SSS"
+  - "\U0001F1F8\U0001F1EC SG 244 VMS"
+  - "\U0001F1F8\U0001F1EC SG 245 VMS"
+  - "\U0001F1EE\U0001F1F9 IT 246 VMS"
   - "\U0001F1FA\U0001F1F8 US 247 SSR"
   - "\U0001F1FF\U0001F1E6 ZA 248 SSS"
   - "\U0001F1FF\U0001F1E6 ZA 249 SSS"
@@ -4976,25 +5125,25 @@ proxy-groups:
   - "\U0001F1FF\U0001F1E6 ZA 319 SSS"
   - "\U0001F1FF\U0001F1E6 ZA 320 SSS"
   - "\U0001F1FF\U0001F1E6 ZA 321 SSS"
-  - "\U0001F1FA\U0001F1F8 US 322 SSS"
-  - "\U0001F1FA\U0001F1F8 US 323 SSR"
+  - "\U0001F1FF\U0001F1E6 ZA 322 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 323 SSS"
   - "\U0001F1FA\U0001F1F8 US 324 SSR"
-  - "\U0001F1FA\U0001F1F8 US 325 SSR"
-  - "\U0001F1FA\U0001F1F8 US 326 SSR"
-  - "\U0001F1FA\U0001F1F8 US 327 SSR"
-  - "\U0001F1FA\U0001F1F8 US 328 SSR"
-  - "\U0001F1FA\U0001F1F8 US 329 SSR"
-  - "\U0001F1FA\U0001F1F8 US 330 SSR"
-  - "\U0001F1FA\U0001F1F8 US 331 SSR"
-  - "\U0001F1FA\U0001F1F8 US 332 SSR"
-  - "\U0001F1FA\U0001F1F8 US 333 SSR"
-  - "\U0001F1FA\U0001F1F8 US 334 SSR"
+  - "\U0001F1FF\U0001F1E6 ZA 325 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 326 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 327 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 328 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 329 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 330 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 331 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 332 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 333 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 334 SSS"
   - "\U0001F1FA\U0001F1F8 US 335 SSR"
-  - "\U0001F1FA\U0001F1F8 US 336 SSR"
-  - "\U0001F1FA\U0001F1F8 US 337 SSR"
-  - "\U0001F1FA\U0001F1F8 US 338 SSR"
-  - "\U0001F1FA\U0001F1F8 US 339 SSR"
-  - "\U0001F1FA\U0001F1F8 US 340 SSR"
+  - "\U0001F1FF\U0001F1E6 ZA 336 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 337 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 338 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 339 SSS"
+  - "\U0001F1FA\U0001F1F8 US 340 SSS"
   - "\U0001F1FA\U0001F1F8 US 341 SSR"
   - "\U0001F1FA\U0001F1F8 US 342 SSR"
   - "\U0001F1FA\U0001F1F8 US 343 SSR"
@@ -5015,58 +5164,75 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 358 SSR"
   - "\U0001F1FA\U0001F1F8 US 359 SSR"
   - "\U0001F1FA\U0001F1F8 US 360 SSR"
-  - "\U0001F1FA\U0001F1F8 US 361 SSS"
-  - "\U0001F1FA\U0001F1F8 US 362 VMS"
-  - "\U0001F1E9\U0001F1EA DE 363 VMS"
-  - "\U0001F1FA\U0001F1F8 US 364 VMS"
-  - "\U0001F1FA\U0001F1F8 US 365 VMS"
-  - "\U0001F1FA\U0001F1F8 US 366 VMS"
-  - "\U0001F1FA\U0001F1F8 US 367 SSS"
-  - "\U0001F1FA\U0001F1F8 US 368 VMS"
+  - "\U0001F1FA\U0001F1F8 US 361 SSR"
+  - "\U0001F1FA\U0001F1F8 US 362 SSR"
+  - "\U0001F1FA\U0001F1F8 US 363 SSR"
+  - "\U0001F1FA\U0001F1F8 US 364 SSR"
+  - "\U0001F1FA\U0001F1F8 US 365 SSR"
+  - "\U0001F1FA\U0001F1F8 US 366 SSR"
+  - "\U0001F1FA\U0001F1F8 US 367 SSR"
+  - "\U0001F1FA\U0001F1F8 US 368 SSR"
   - "\U0001F1FA\U0001F1F8 US 369 SSR"
-  - "\U0001F1FA\U0001F1F3 UN 370 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 371 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 372 TJN"
-  - "\U0001F1FA\U0001F1F8 US 373 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 374 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 375 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 376 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 377 TJN"
-  - "\U0001F1FA\U0001F1F8 US 378 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 379 TJN"
-  - "\U0001F1FA\U0001F1F8 US 380 SSR"
-  - "\U0001F1FA\U0001F1F8 US 381 TJN"
-  - "\U0001F1FA\U0001F1F8 US 382 TJN"
+  - "\U0001F1FA\U0001F1F8 US 370 SSR"
+  - "\U0001F1FA\U0001F1F8 US 371 SSR"
+  - "\U0001F1FA\U0001F1F8 US 372 SSR"
+  - "\U0001F1FA\U0001F1F8 US 373 SSS"
+  - "\U0001F1FA\U0001F1F8 US 374 VMS"
+  - "\U0001F1FA\U0001F1F8 US 375 SSR"
+  - "\U0001F1F0\U0001F1F7 KR 376 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 377 VMS"
+  - "\U0001F1FA\U0001F1F8 US 378 VMS"
+  - "\U0001F1FA\U0001F1F8 US 379 VMS"
+  - "\U0001F1FA\U0001F1F8 US 380 VMS"
+  - "\U0001F1FA\U0001F1F8 US 381 SSS"
+  - "\U0001F1FA\U0001F1F8 US 382 VMS"
   - "\U0001F1FA\U0001F1F8 US 383 TJN"
   - "\U0001F1FA\U0001F1F8 US 384 TJN"
   - "\U0001F1FA\U0001F1F3 UN 385 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 386 TJN"
+  - "\U0001F1FA\U0001F1F8 US 386 SSR"
   - "\U0001F1FA\U0001F1F3 UN 387 TJN"
   - "\U0001F1FA\U0001F1F8 US 388 TJN"
   - "\U0001F1FA\U0001F1F8 US 389 TJN"
-  - "\U0001F1FF\U0001F1E6 ZA 390 SSS"
-  - "\U0001F1FA\U0001F1F8 US 391 SSR"
-  - "\U0001F1FF\U0001F1E6 ZA 392 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 393 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 394 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 395 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 396 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 397 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 398 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 399 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 400 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 401 SSS"
-  - "\U0001F1FA\U0001F1F8 US 402 SSR"
-  - "\U0001F1FF\U0001F1E6 ZA 403 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 404 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 405 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 406 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 407 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 408 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 409 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 410 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 411 SSS"
-  - "\U0001F1FF\U0001F1E6 ZA 412 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 413 SSR"
+  - "\U0001F1FA\U0001F1F8 US 390 TJN"
+  - "\U0001F1FA\U0001F1F8 US 391 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 392 TJN"
+  - "\U0001F1FA\U0001F1F8 US 393 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 394 TJN"
+  - "\U0001F1FA\U0001F1F8 US 395 TJN"
+  - "\U0001F1FA\U0001F1F8 US 396 TJN"
+  - "\U0001F1FA\U0001F1F8 US 397 SSR"
+  - "\U0001F1FA\U0001F1F8 US 398 TJN"
+  - "\U0001F1FA\U0001F1F8 US 399 TJN"
+  - "\U0001F1FA\U0001F1F8 US 400 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 401 TJN"
+  - "\U0001F1FA\U0001F1F8 US 402 TJN"
+  - "\U0001F1FA\U0001F1F8 US 403 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 404 TJN"
+  - "\U0001F1FA\U0001F1F8 US 405 TJN"
+  - "\U0001F1FA\U0001F1F8 US 406 TJN"
+  - "\U0001F1FA\U0001F1F8 US 407 TJN"
+  - "\U0001F1FA\U0001F1F8 US 408 SSR"
+  - "\U0001F1FA\U0001F1F8 US 409 TJN"
+  - "\U0001F1FA\U0001F1F8 US 410 TJN"
+  - "\U0001F1FA\U0001F1F8 US 411 TJN"
+  - "\U0001F1FA\U0001F1F8 US 412 TJN"
+  - "\U0001F1FA\U0001F1F8 US 413 TJN"
+  - "\U0001F1FF\U0001F1E6 ZA 414 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 415 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 416 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 417 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 418 SSS"
+  - "\U0001F1FA\U0001F1F8 US 419 SSR"
+  - "\U0001F1FF\U0001F1E6 ZA 420 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 421 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 422 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 423 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 424 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 425 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 426 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 427 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 428 SSS"
+  - "\U0001F1FF\U0001F1E6 ZA 429 SSS"
+  - "\U0001F1FA\U0001F1F3 UN 430 SSR"
 rules:
 - "MATCH,\U0001F310 Proxy"
